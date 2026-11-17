@@ -1,0 +1,53 @@
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/numba/np/ufunc/parallel.py:373: NumbaWarning: The TBB threading layer requires TBB version 2021 update 6 or later i.e., TBB_INTERFACE_VERSION >= 12060. Found TBB_INTERFACE_VERSION = 12050. The TBB threading layer is disabled.
+  warnings.warn(problem)
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+Eval papers=653 categories=21 avg_labels=1.00 -> nDCG@1
+reuse windows windows_max80.csv n=17354
+window stats: {"n_papers": 6517, "n_windows": 17354, "papers_1_window": 89, "papers_2_windows": 2455, "papers_3plus_windows": 3973, "pct_single_window": 0.013656590455731164, "tokens_mean": 59.1989166762706, "tokens_median": 64.0, "tokens_max": 199, "windows_per_paper_mean": 2.662881694030996}
+
+===== Encoder qwen =====
+cache hit R0_full_abstract.npy (6517, 1024)
+cache hit windows_max80.npy (17354, 1024)
+--- qwen R0 full abstract ---
+qwen|R0_full|umap_hdbscan: K=66 cov=0.784 Pur=0.6944 PF=0.3949
+--- qwen R2 uniform mean ---
+qwen|R2_uniform_mean|umap_hdbscan: K=63 cov=0.740 Pur=0.6487 PF=0.3683
+--- qwen R3 token-weighted mean ---
+qwen|R3_token_weighted|umap_hdbscan: K=63 cov=0.738 Pur=0.6443 PF=0.3454
+                                 method  K  Coverage   Purity   PairF1
+              qwen|R0_full|umap_hdbscan 66  0.784074 0.694394 0.394858
+      qwen|R2_uniform_mean|umap_hdbscan 63  0.739663 0.648709 0.368298
+    qwen|R3_token_weighted|umap_hdbscan 63  0.738132 0.644293 0.345423
+            semcse|R0_full|umap_hdbscan 46  0.589587 0.605912 0.344530
+    semcse|R2_uniform_mean|umap_hdbscan 42  0.589587 0.633229 0.378804
+  semcse|R3_token_weighted|umap_hdbscan 47  0.633997 0.620959 0.406281
+          specter2|R0_full|umap_hdbscan 53  0.771822 0.666282 0.525435
+  specter2|R2_uniform_mean|umap_hdbscan 44  0.675345 0.636996 0.513749
+specter2|R3_token_weighted|umap_hdbscan 49  0.773354 0.651495 0.510662
+wrote final_comparison_table.csv
+      role                                  method   K  Coverage   Purity  LRAP_mean  nDCG@1_mean  V_measure   PairF1
+Our method           specter2|R0_full|umap_hdbscan  53  0.771822 0.666282   0.695148     0.631610   0.630322 0.525435
+Our method   specter2|R2_uniform_mean|umap_hdbscan  44  0.675345 0.636996   0.690555     0.621479   0.621893 0.513749
+Our method specter2|R3_token_weighted|umap_hdbscan  49  0.773354 0.651495   0.692055     0.630273   0.608480 0.510662
+Our method   semcse|R3_token_weighted|umap_hdbscan  47  0.633997 0.620959   0.628313     0.553444   0.561863 0.406281
+Reproduced                  ACC-top30 [reproduced]  30  0.705972 0.618090   0.693485     0.595562   0.552200 0.403326
+ Published                               ACC-top30  30  0.705972 0.618090   0.693485     0.595562   0.552200 0.403326
+Our method               qwen|R0_full|umap_hdbscan  66  0.784074 0.694394   0.673528     0.613594   0.593471 0.394858
+Our method     semcse|R2_uniform_mean|umap_hdbscan  42  0.589587 0.633229   0.644849     0.576962   0.563855 0.378804
+Our method       qwen|R2_uniform_mean|umap_hdbscan  63  0.739663 0.648709   0.617672     0.550188   0.566786 0.368298
+Reproduced          SentSPECTER-top30 [reproduced]  30  0.791730 0.472069   0.636743     0.511699   0.471112 0.365110
+ Published                       SentSPECTER-top30  30  0.791730 0.472069   0.636743     0.511699   0.471112 0.365110
+ Published                              ACC (ours)  80  0.839204 0.688819   0.674109     0.579546   0.570499 0.360695
+Reproduced                 ACC (ours) [reproduced]  80  0.839204 0.688819   0.674109     0.579546   0.570499 0.360695
+Our method     qwen|R3_token_weighted|umap_hdbscan  63  0.738132 0.644293   0.626518     0.554614   0.576673 0.345423
+Our method             semcse|R0_full|umap_hdbscan  46  0.589587 0.605912   0.592004     0.514883   0.545171 0.344530
+Reproduced          BERTopic-SPECTER2 [reproduced]  53  1.000000 0.318126   0.655092     0.520331   0.470981 0.289665
+ Published                       BERTopic-SPECTER2  53  1.000000 0.318126   0.655092     0.520331   0.470981 0.289665
+ Published                             SentSPECTER 187  0.978560 0.654445   0.667903     0.540306   0.531925 0.267728
+Reproduced                SentSPECTER [reproduced] 187  0.978560 0.654445   0.667903     0.540306   0.531925 0.267728
+Reproduced   BERTopic-general (MPNet) [reproduced]  57  1.000000 0.326201   0.656171     0.515767   0.462561 0.249484

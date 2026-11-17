@@ -1,0 +1,184 @@
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/numba/np/ufunc/parallel.py:373: NumbaWarning: The TBB threading layer requires TBB version 2021 update 6 or later i.e., TBB_INTERFACE_VERSION >= 12060. Found TBB_INTERFACE_VERSION = 12050. The TBB threading layer is disabled.
+  warnings.warn(problem)
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1865: UserWarning: using precomputed metric; inverse_transform will be unavailable
+  warn("using precomputed metric; inverse_transform will be unavailable")
+/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/.venv/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+corpus checks OK: fit=4488, eval=653, intersection=653
+Eval papers=653 categories=21 avg_labels=1.00 -> nDCG@1
+
+===== specter2 fit4488 =====
+slice specter2/abstract_R0 from abstract_R0.npy -> (4488, 768)
+slice specter2/title_T0 from title_T0.npy -> (4488, 768)
+slice specter2/text_concat_A1 from text_concat_A1.npy -> (4488, 768)
+specter2 abstract_R0 a=None: K=34 noise=0.229 PF=0.5117
+specter2 title_T0 a=None: K=35 noise=0.320 PF=0.4510
+specter2 text_concat_A1 a=None: K=38 noise=0.250 PF=0.4253
+specter2 embedding_weighted_A2 a=0.1: K=40 noise=0.253 PF=0.4447
+specter2 embedding_weighted_A2 a=0.2: K=36 noise=0.237 PF=0.4608
+specter2 embedding_weighted_A2 a=0.3: K=36 noise=0.207 PF=0.4682
+specter2 embedding_weighted_A2 a=0.4: K=35 noise=0.225 PF=0.4531
+specter2 embedding_weighted_A2 a=0.5: K=36 noise=0.301 PF=0.4962
+specter2 similarity_late_A3 a=0.1: K=39 noise=0.253 PF=0.4347
+specter2 similarity_late_A3 a=0.2: K=39 noise=0.228 PF=0.4494
+specter2 similarity_late_A3 a=0.3: K=38 noise=0.201 PF=0.4581
+specter2 similarity_late_A3 a=0.4: K=40 noise=0.248 PF=0.4740
+specter2 similarity_late_A3 a=0.5: K=37 noise=0.225 PF=0.4780
+
+===== semcse fit4488 =====
+slice semcse/abstract_R0 from abstract_R0.npy -> (4488, 768)
+slice semcse/title_T0 from title_T0.npy -> (4488, 768)
+slice semcse/text_concat_A1 from text_concat_A1.npy -> (4488, 768)
+semcse abstract_R0 a=None: K=37 noise=0.373 PF=0.3624
+semcse title_T0 a=None: K=31 noise=0.399 PF=0.3467
+semcse text_concat_A1 a=None: K=33 noise=0.440 PF=0.3826
+semcse embedding_weighted_A2 a=0.1: K=33 noise=0.368 PF=0.3834
+semcse embedding_weighted_A2 a=0.2: K=31 noise=0.357 PF=0.3446
+semcse embedding_weighted_A2 a=0.3: K=34 noise=0.374 PF=0.4152
+semcse embedding_weighted_A2 a=0.4: K=27 noise=0.349 PF=0.3142
+semcse embedding_weighted_A2 a=0.5: K=39 noise=0.381 PF=0.3598
+semcse similarity_late_A3 a=0.1: K=34 noise=0.347 PF=0.3277
+semcse similarity_late_A3 a=0.2: K=35 noise=0.356 PF=0.3997
+semcse similarity_late_A3 a=0.3: K=34 noise=0.368 PF=0.4120
+semcse similarity_late_A3 a=0.4: K=37 noise=0.455 PF=0.4441
+semcse similarity_late_A3 a=0.5: K=38 noise=0.448 PF=0.4661
+
+===== qwen fit4488 =====
+slice qwen/abstract_R0 from abstract_R0.npy -> (4488, 1024)
+slice qwen/title_T0 from title_T0.npy -> (4488, 1024)
+slice qwen/text_concat_A1 from text_concat_A1.npy -> (4488, 1024)
+qwen abstract_R0 a=None: K=52 noise=0.232 PF=0.4027
+qwen title_T0 a=None: K=45 noise=0.346 PF=0.3773
+qwen text_concat_A1 a=None: K=53 noise=0.209 PF=0.3884
+qwen embedding_weighted_A2 a=0.1: K=44 noise=0.182 PF=0.3769
+qwen embedding_weighted_A2 a=0.2: K=51 noise=0.190 PF=0.3811
+qwen embedding_weighted_A2 a=0.3: K=49 noise=0.224 PF=0.3569
+qwen embedding_weighted_A2 a=0.4: K=50 noise=0.259 PF=0.3986
+qwen embedding_weighted_A2 a=0.5: K=47 noise=0.270 PF=0.3934
+qwen similarity_late_A3 a=0.1: K=52 noise=0.227 PF=0.3950
+qwen similarity_late_A3 a=0.2: K=45 noise=0.199 PF=0.3949
+qwen similarity_late_A3 a=0.3: K=46 noise=0.199 PF=0.3751
+qwen similarity_late_A3 a=0.4: K=45 noise=0.242 PF=0.3758
+qwen similarity_late_A3 a=0.5: K=46 noise=0.249 PF=0.3884
+
+=== BEST PER ENCODER×REPR (fit4488) ===
+ encoder        representation alpha   PairF1   Purity  n_clusters  noise_fraction
+    qwen           abstract_R0       0.402654 0.646132          52        0.231729
+    qwen embedding_weighted_A2   0.4 0.398636 0.679475          50        0.258913
+    qwen    similarity_late_A3   0.1 0.395003 0.665837          52        0.227050
+    qwen        text_concat_A1       0.388374 0.677658          53        0.209447
+    qwen              title_T0       0.377294 0.589476          45        0.345811
+  semcse    similarity_late_A3   0.5 0.466075 0.642641          38        0.448084
+  semcse embedding_weighted_A2   0.3 0.415227 0.580989          34        0.374109
+  semcse        text_concat_A1       0.382626 0.622409          33        0.440062
+  semcse           abstract_R0       0.362435 0.602392          37        0.372549
+  semcse              title_T0       0.346749 0.604879          31        0.399064
+specter2           abstract_R0       0.511656 0.620409          34        0.229055
+specter2 embedding_weighted_A2   0.5 0.496240 0.674297          36        0.301025
+specter2    similarity_late_A3   0.5 0.478018 0.689659          37        0.225490
+specter2              title_T0       0.451011 0.613654          35        0.319519
+specter2        text_concat_A1       0.425319 0.667651          38        0.250000

@@ -190,6 +190,23 @@ Everything the paper promises to release lives under `artifacts/`:
 
 Produced by the included notebooks — see [`notebooks/README.md`](notebooks/README.md).
 
+## Assignment 1 — Research paper clustering
+
+**Start here for our methods:** [`artifacts/assignment1/README.md`](artifacts/assignment1/README.md) (what is ours vs paper vs prior extension, and reproduce commands).  
+Report: [`REPORT.md`](REPORT.md). Notebook: [`notebooks/assignment_template.ipynb`](notebooks/assignment_template.ipynb).
+
+| Label | What |
+|---|---|
+| **Published** | Paper Table 2 (ACC, BERTopic, …) — never “ours” |
+| **Ours** | Windows R0/R2/R3; title–abstract T0/A1/A2/A3 @6517 & @4488 |
+| **Prior extension** | Restricted 653 abs+concl, sliding windows, clusterer ablations (`artifacts/extension_*`) |
+
+```bash
+uv run python artifacts/assignment1/pipeline/run_workstream_a.py --stage ab --encoders specter2,semcse,qwen
+uv run python artifacts/assignment1_title_fusion/run_title_fusion.py
+uv run python scripts/run_fit4488.py
+```
+
 ## Licenses
 
 - **Code:** [MIT](LICENSE)

@@ -1,0 +1,10 @@
+{
+  "method": "feat_third",
+  "features": "L2(title_emb)|L2(abs_emb)|w*onehot(title_cl)|w*onehot(abs_cl)",
+  "cluster_weights": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "clustering": "UMAP+HDBSCAN same as Regime A"
+}

@@ -1,0 +1,22 @@
+{
+  "fit_n": 6517,
+  "eval_n": 653,
+  "umap": {
+    "n_neighbors": 40,
+    "n_components": 5,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "random_state": 42
+  },
+  "hdbscan": {
+    "min_cluster_size": 25,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom"
+  },
+  "aggregations": [
+    "soft_concat",
+    "coassoc"
+  ],
+  "note": "Cluster titles and abstracts separately, then aggregate"
+}

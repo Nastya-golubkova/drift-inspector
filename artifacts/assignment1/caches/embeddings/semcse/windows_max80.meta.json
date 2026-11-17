@@ -1,0 +1,7 @@
+{
+  "model": "CLAUSE-Bielefeld/SemCSE_cosine",
+  "library": "sentence-transformers",
+  "normalize": true,
+  "n": 17354,
+  "dim": 768
+}

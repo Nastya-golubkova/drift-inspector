@@ -1,0 +1,2 @@
+method,encoder,representation,alpha,clusterer,K_requested,fit_n,eval_n,Purity,LRAP,nDCG@1,V_measure,PairF1,Coverage,n_eval_assigned,n_clusters,noise_fraction,note
+specter2|A3_a0.1|umap_agglo_ward_K30,specter2,similarity_late_A3,0.1,umap_agglo_ward,30,6517,653,0.5180,0.6348,0.5376,0.5332,0.4047,1.0,653,30,0.0,full_653_coverage;K=30_best_of_30_54_80_eval_selected

@@ -1,0 +1,9 @@
+status,method,K,Coverage,Purity,LRAP,nDCG@1,V_measure,PairF1,source
+Reproduced,LDA,30,1.0,0.2448796927928924,0.509541531103532,0.3307645331767469,0.2702347925399018,0.1672554168162155,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,NMF,30,1.0,0.2935338616371155,0.5851625082026538,0.4449606576629477,0.3239141580560965,0.1858881606945272,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,BERTopic SPECTER2,53,1.0,0.3181261164928156,0.6550923533487965,0.5203311802701116,0.4709813751000439,0.2896645073963066,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,BERTopic MPNet,57,1.0,0.3262006515191558,0.6561713773237081,0.5157674691720493,0.4625608402088424,0.2494843234323432,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,SentSPECTER,187,0.9785604900459418,0.6544448137283325,0.6679034068683123,0.5403063484251969,0.5319252765436426,0.2677276939009102,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,SentSPECTER top30,30,0.7917304747320061,0.4720689952373504,0.6367430216451877,0.5116990291262136,0.4711120416366364,0.3651104496318345,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,ACC,80,0.8392036753445635,0.6888192296028137,0.6741087687310378,0.5795464474363556,0.5704988024608373,0.3606945167242276,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)
+Reproduced,ACC top30,30,0.7059724349157733,0.6180902123451233,0.693485226878986,0.5955624568668046,0.5522000446027465,0.4033257631163632,artifacts/baseline/stop_alignment_table.csv (baseline_comparison.ipynb export)

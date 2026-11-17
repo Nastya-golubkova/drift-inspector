@@ -1,0 +1,9 @@
+status,source,method,Purity,LRAP,nDCG@1,V_measure,PairF1
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),LDA,0.245,0.508,0.329,0.278,0.17
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),NMF,0.294,0.585,0.445,0.324,0.186
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),BERTopic SPECTER2,0.324,0.651,0.515,0.469,0.289
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),BERTopic MPNet,0.327,0.651,0.509,0.457,0.234
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),SentSPECTER,0.654,0.668,0.54,0.532,0.268
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),SentSPECTER top30,0.472,0.637,0.512,0.471,0.365
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),ACC,0.689,0.674,0.58,0.571,0.361
+Published,original paper Table 2 (baseline_reproduction_audit published_* columns),ACC top30,0.618,0.694,0.596,0.552,0.403

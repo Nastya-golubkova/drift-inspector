@@ -1,0 +1,35 @@
+Regime,Fit_N,Eval_N,Method,Purity,LRAP,nDCG@1,V-measure,PairF1,Status,source_artifact,notes
+Table2,,653,LDA,0.245,0.508,0.329,0.278,0.17,Published,original paper Table 2,reference published numbers
+Table2,,653,NMF,0.294,0.585,0.445,0.324,0.186,Published,original paper Table 2,reference published numbers
+Table2,,653,BERTopic SPECTER2,0.324,0.651,0.515,0.469,0.289,Published,original paper Table 2,reference published numbers
+Table2,,653,BERTopic MPNet,0.327,0.651,0.509,0.457,0.234,Published,original paper Table 2,reference published numbers
+Table2,,653,SentSPECTER,0.654,0.668,0.54,0.532,0.268,Published,original paper Table 2,reference published numbers
+Table2,,653,SentSPECTER top30,0.472,0.637,0.512,0.471,0.365,Published,original paper Table 2,reference published numbers
+Table2,,653,ACC,0.689,0.674,0.58,0.571,0.361,Published,original paper Table 2,reference published numbers
+Table2,,653,ACC top30,0.618,0.694,0.596,0.552,0.403,Published,original paper Table 2,reference published numbers
+Table2_repro,6517.0,653,LDA [reproduced],0.24488,0.509542,0.330765,0.270235,0.167255,Reproduced,artifacts/baseline/stop_alignment_table.csv,from stop_alignment_table; differs slightly from paper rounding
+Table2_repro,6517.0,653,NMF [reproduced],0.293534,0.585163,0.444961,0.323914,0.185888,Reproduced,artifacts/baseline/stop_alignment_table.csv,from stop_alignment_table; differs slightly from paper rounding
+Table2_repro,6517.0,653,BERTopic SPECTER2 [reproduced],0.318126,0.655092,0.520331,0.470981,0.289665,Reproduced,artifacts/baseline/stop_alignment_table.csv,from stop_alignment_table; differs slightly from paper rounding
+Table2_repro,6517.0,653,BERTopic MPNet [reproduced],0.326201,0.656171,0.515767,0.462561,0.249484,Reproduced,artifacts/baseline/stop_alignment_table.csv,"from stop_alignment_table; differs slightly from paper rounding; PairF1 0.249 vs paper 0.234 is beyond typical rounding — treat as verified reproduction export, not paper glyph"
+Table2_repro,6517.0,653,SentSPECTER [reproduced],0.654445,0.667903,0.540306,0.531925,0.267728,Reproduced,artifacts/baseline/stop_alignment_table.csv,from stop_alignment_table; differs slightly from paper rounding
+Table2_repro,6517.0,653,SentSPECTER top30 [reproduced],0.472069,0.636743,0.511699,0.471112,0.36511,Reproduced,artifacts/baseline/stop_alignment_table.csv,from stop_alignment_table; differs slightly from paper rounding
+Table2_repro,4488.0,653,ACC [reproduced],0.688819,0.674109,0.579546,0.570499,0.360695,Reproduced,artifacts/baseline/stop_alignment_table.csv,claim-level ACC on 4488 papers
+Table2_repro,4488.0,653,ACC top30 [reproduced],0.61809,0.693485,0.595562,0.5522,0.403326,Reproduced,artifacts/baseline/stop_alignment_table.csv,claim-level ACC on 4488 papers
+A_6517,6517.0,653,SPECTER2 R0 abstract,0.666282,0.695148,0.63161,0.630322,0.525435,Fixed (ours),artifacts/assignment1_title_fusion/results/title_fusion_results.csv,R0 metrics copied from stage_ab in title_fusion CSV
+A_6517,6517.0,653,SPECTER2 A1 title+abstract concat,0.728951,0.728653,0.664693,0.655246,0.549038,Fixed (ours),artifacts/assignment1_title_fusion/results/title_fusion_results.csv,no alpha
+A_6517,6517.0,653,SPECTER2 A3 late fusion α=0.1,0.695457,0.732545,0.665576,0.668413,0.557148,Exploratory (ours),artifacts/assignment1_title_fusion/results/title_fusion_results.csv,alpha selected on official 653 labels
+A_6517,6517.0,653,SPECTER2 T0 title-only,0.67896,0.658073,0.597162,0.580002,0.41326,Fixed (ours),artifacts/assignment1_title_fusion/results/title_fusion_results.csv,diagnostic
+A_6517,6517.0,653,Qwen A2 α=0.1,0.719864,0.655006,0.601062,0.588529,0.467742,Exploratory (ours),artifacts/assignment1_title_fusion/results/title_fusion_results.csv,
+A_6517,6517.0,653,SemCSE A3 α=0.3,0.657339,0.651133,0.595732,0.597475,0.430159,Exploratory (ours),artifacts/assignment1_title_fusion/results/title_fusion_results.csv,
+A_6517,6517.0,653,specter2|R2_uniform_mean|umap_hdbscan,0.636996,0.690555,0.621479,0.621893,0.513749,Fixed (ours),artifacts/assignment1/results/stage_ab_results.csv,window aggregation
+A_6517,6517.0,653,specter2|R3_token_weighted|umap_hdbscan,0.651495,0.692055,0.630273,0.60848,0.510662,Fixed (ours),artifacts/assignment1/results/stage_ab_results.csv,window aggregation
+B_4488,4488.0,653,SPECTER2 R0 abstract,0.620409,0.707829,0.637704,0.605346,0.511656,Fixed (ours),artifacts/assignment1_fit4488/results/fit4488_results.csv,paper-level embeddings; not claim-level ACC
+B_4488,4488.0,653,SPECTER2 A1 concat,0.667651,0.710874,0.627212,0.615152,0.425319,Fixed (ours),artifacts/assignment1_fit4488/results/fit4488_results.csv,title fusion does not transfer from 6517
+B_4488,4488.0,653,SPECTER2 A3 α=0.1,0.646555,0.697754,0.614161,0.616707,0.43473,Exploratory (ours),artifacts/assignment1_fit4488/results/fit4488_results.csv,
+B_4488,4488.0,653,SPECTER2 A2 α=0.5,0.674297,0.737681,0.675782,0.641673,0.49624,Exploratory (ours),artifacts/assignment1_fit4488/results/fit4488_results.csv,best A2 on 4488 by PairF1
+C_653,653.0,653,OURS_abs+concl_concat,0.627161,,,0.593585,0.507642,Prior extension,artifacts/extension_653/fair653_all_methods.csv,fit=eval=653; UMAP often nn=15 — not Regime A/B config
+C_653,653.0,653,OURS_B1_a0.75,0.651759,,,0.604036,0.501178,Prior extension,artifacts/extension_653/fair653_all_methods.csv,fit=eval=653; UMAP often nn=15 — not Regime A/B config
+C_653,653.0,653,SPECTER2-abs+HDBSCAN,0.560576,,,0.548263,0.446216,Prior extension,artifacts/extension_653/fair653_all_methods.csv,fit=eval=653; UMAP often nn=15 — not Regime A/B config
+C_653,653.0,653,OURS_abs+intro+concl_concat,0.630861,,,0.538616,0.379741,Prior extension,artifacts/extension_653/fair653_all_methods.csv,fit=eval=653; UMAP often nn=15 — not Regime A/B config
+C_653,653.0,653,ACC,0.498816,,,0.466503,0.323115,Prior extension,artifacts/extension_653/fair653_all_methods.csv,fit=eval=653; UMAP often nn=15 — not Regime A/B config
+C_656,656.0,656,OURS_abs+intro+concl_concat,0.620496,,,0.588247,0.520839,Prior extension,artifacts/extension_full656/fair656_all_methods.csv,NOT 653 — do not place in C_653 table

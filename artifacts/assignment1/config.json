@@ -1,0 +1,26 @@
+{
+  "random_state": 42,
+  "umap": {
+    "n_neighbors": 40,
+    "n_components": 5,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "random_state": 42
+  },
+  "hdbscan": {
+    "min_cluster_size": 25,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom"
+  },
+  "primary_max_window_tokens": 80,
+  "encoders": {
+    "specter2": "allenai/specter2_aug2023refresh_base",
+    "semcse": "CLAUSE-Bielefeld/SemCSE_cosine",
+    "qwen": "Qwen/Qwen3-Embedding-0.6B",
+    "qwen_instruction": "Represent this scientific research abstract by its research topic, problem, methods, and main contribution."
+  },
+  "fit_corpus": 6517,
+  "eval_corpus": 653,
+  "eval_ids": "/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/artifacts/extension_full656/author_table2_eval_papers.csv"
+}

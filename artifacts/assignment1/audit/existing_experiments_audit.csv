@@ -1,0 +1,16 @@
+experiment,artifact_path,fit_corpus,eval_set,protocol_compatible_with_table2,classification,key_metrics,notes
+baseline_comparison Table2 SToP,artifacts/baseline/stop_alignment_table.csv,6517 abs / 4488 claims,653,yes,valid_completed,ACC PairF1=0.361 ACC-top30=0.403,Canonical published+reproduced Table 2
+ACC EMNLP clusters,artifacts/baseline/acc_clusters_emnlp.csv,16576 claims / 4488 papers,n/a (cluster labels),yes,valid_completed,K=80 noise=36.1%,Required for ACC reproduction
+fair653 all methods,artifacts/extension_653/fair653_all_methods.csv,653 only,653,no,incompatible_protocol,OURS abs+concl PairF1=0.508; ACC=0.323,Same restricted fit for all methods; NOT Table 2
+OURS abs+concl restricted,artifacts/extension_653/,653 with sections,653,no,useful_exploratory,PairF1≈0.508,Section fusion; cannot claim vs paper ACC
+OURS B1 early a0.75,artifacts/extension_653/,653 sections,653,no,useful_exploratory,PairF1≈0.501,Exploratory
+extension intersection 612,artifacts/extension/; artifacts/intersection/,612 section intersection,612,no,useful_exploratory,see results.csv,Earlier course extension
+baseline_on_intersection,artifacts/intersection/baseline_on_intersection.csv,612,612,no,incompatible_protocol,ACC PairF1≈0.316,Recluster on intersection
+sliding window sections,artifacts/extension_sliding/; notebooks/extension_sliding_window.ipynb,612 sections,612,no,useful_exploratory,mean/weighted section windows,Tech precursor to abstract windowing; wrong text unit for Assignment 1
+expanded conclusion proxies,artifacts/extension_expanded/,~645,same,no,useful_exploratory,—,Closing-section proxies
+full656 relaxed sections,artifacts/extension_full656/,656,656,no,incomplete_or_exploratory,thin notebook,author_table2_eval_papers.csv is the valuable 653 ID list
+section heading inventory,artifacts/full_paper_sections/,653 with SToP Whole Extract,n/a,n/a (section inventory),valid_completed_phase1,fulltext_ok=653/4488,Embeddings E1-E14 NOT started; hold for validation
+SPECTER2 abstract emb cache 6517,artifacts/baseline/specter2_abstract_embeddings.npy,6517,n/a,yes (input for repro),valid_completed,—,Reusable for Assignment 1 R0 SPECTER2
+MPNet abstract emb 6517,artifacts/baseline/mpnet_abstract_embeddings.npy,6517,n/a,yes,valid_completed,—,Table 2 BERTopic-MPNet
+SPECTER2 sentences,artifacts/baseline/specter2_sentences.npy,6517 sents,n/a,yes,valid_completed,—,SentSPECTER
+extractor ablation ACC harness,artifacts/audit/extractor_ablation_STOP_FINDINGS.md,4488 qwen vs gpt-oss,653,yes,valid_completed,qwen PF=0.3607 gpt-oss=0.296,Confirms large-fit ACC harness

@@ -1,0 +1,12 @@
+{
+  "n_papers": 6517,
+  "n_windows": 17354,
+  "papers_1_window": 89,
+  "papers_2_windows": 2455,
+  "papers_3plus_windows": 3973,
+  "pct_single_window": 0.013656590455731164,
+  "tokens_mean": 59.1989166762706,
+  "tokens_median": 64.0,
+  "tokens_max": 199,
+  "windows_per_paper_mean": 2.662881694030996
+}

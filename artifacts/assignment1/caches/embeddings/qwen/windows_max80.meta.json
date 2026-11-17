@@ -1,0 +1,7 @@
+{
+  "model": "Qwen/Qwen3-Embedding-0.6B",
+  "instruction": "Represent this scientific research abstract by its research topic, problem, methods, and main contribution.",
+  "normalize": true,
+  "n": 17354,
+  "dim": 1024
+}

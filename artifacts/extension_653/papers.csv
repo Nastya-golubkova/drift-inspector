@@ -1,0 +1,654 @@
+paper_id,year,title,intro_source,conclusion_source
+2020.emnlp-main.1,2020,Detecting Attackable Sentences in Arguments,introduction,conclusion
+2020.emnlp-main.3,2020,Quantitative argument summarization and beyond: Cross-domain key point analysis,introduction,conclusion
+2020.emnlp-main.4,2020,Unsupervised stance detection for arguments from consequences,introduction,conclusion
+2020.emnlp-main.5,2020,BLEU might be Guilty but References are not Innocent,introduction,conclusion
+2020.emnlp-main.6,2020,Statistical Power and Translationese in Machine Translation Evaluation,introduction,conclusion
+2020.emnlp-main.7,2020,Simulated multiple reference training improves low-resource machine translation,introduction,conclusion
+2020.emnlp-main.8,2020,Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing,introduction,conclusion
+2020.emnlp-main.9,2020,PRover: Proof Generation for Interpretable Reasoning over Rules,introduction,conclusion
+2020.emnlp-main.10,2020,Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering,introduction,proxy:results: performance on eqasc|results:consistency in eqasc-perturbed|results: generalization to eobqa|error analysis|summary
+2020.emnlp-main.11,2020,Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering,introduction,conclusion
+2020.emnlp-main.12,2020,More Bang for Your Buck: Natural Perturbation for Robust Question Answering,introduction,conclusion
+2020.emnlp-main.13,2020,A matter of framing: The impact of linguistic formalism on probing results,introduction,conclusion
+2020.emnlp-main.14,2020,Information-Theoretic Probing with Minimum Description Length,introduction,conclusion
+2020.emnlp-main.15,2020,Intrinsic Probing through Dimension Selection,introduction,conclusion
+2020.emnlp-main.16,2020,Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually),introduction,conclusion
+2020.emnlp-main.17,2020,Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference,introduction,conclusion
+2020.emnlp-main.18,2020,KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations,introduction,conclusion
+2020.emnlp-main.19,2020,ETC: Encoding Long and Structured Inputs in Transformers,introduction,conclusion
+2020.emnlp-main.20,2020,Pre-Training Transformers as Energy-Based Cloze Models,introduction,conclusion
+2020.emnlp-main.21,2020,Calibration of Pre-trained Transformers,introduction,conclusion
+2020.emnlp-main.24,2020,FIND: Human-in-the-Loop Debugging Deep Text Classifiers,introduction,conclusion
+2020.emnlp-main.26,2020,Incremental Processing in the Age of Non-Incremental Encoders: An Empirical Assessment of Bidirectional Models for Incremental NLU,introduction,conclusion
+2020.emnlp-main.27,2020,Augmented Natural Language for Generative Sequence Labeling,introduction,proxy:few-shot results|discussion and future work
+2020.emnlp-main.28,2020,Dialogue Response Ranking Training with Large-Scale Human Feedback Data,introduction,conclusion
+2020.emnlp-main.29,2020,Semantic Evaluation for Text-to-SQL with Distilled Test Suites,introduction,conclusion
+2020.emnlp-main.30,2020,Cross-Thought for Sentence Encoder Pre-training,introduction,conclusion
+2020.emnlp-main.31,2020,AutoQA: From Databases To QA Semantic Parsers With Only Synthetic Training Data,introduction,proxy:discussion
+2020.emnlp-main.32,2020,A Spectral Method for Unsupervised Multi-Document Summarization,introduction,conclusion
+2020.emnlp-main.33,2020,What Have We Achieved on Text Summarization?,introduction,conclusion
+2020.emnlp-main.34,2020,Q-learning with Language Model for Edit-based Unsupervised Summarization,introduction,conclusion
+2020.emnlp-main.35,2020,Friendly Topic Assistant for Transformer Based Abstractive Summarization,introduction,conclusion
+2020.emnlp-main.36,2020,Contrastive Distillation on Intermediate Representations for Language Model Compression,introduction,conclusion
+2020.emnlp-main.37,2020,TernaryBERT: Distillation-aware Ultra-low Bit BERT,introduction,conclusion
+2020.emnlp-main.38,2020,Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks,introduction,conclusion
+2020.emnlp-main.39,2020,Efficient Meta Lifelong-Learning with Limited Memory,introduction,conclusion
+2020.emnlp-main.40,2020,Don’t Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings,introduction,proxy:published results
+2020.emnlp-main.41,2020,A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT,introduction,conclusion
+2020.emnlp-main.42,2020,Accurate Word Alignment Induction from Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.43,2020,ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization,introduction,conclusion
+2020.emnlp-main.44,2020,Unsupervised Discovery of Implicit Gender Bias,introduction,conclusion
+2020.emnlp-main.45,2020,Condolence and Empathy in Online Communities,introduction,conclusion
+2020.emnlp-main.46,2020,An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets,introduction,conclusion
+2020.emnlp-main.47,2020,Measuring Information Propagation in Literary Social Networks,introduction,conclusion
+2020.emnlp-main.48,2020,Social Chemistry 101: Learning to Reason about Social and Moral Norms,introduction,conclusion
+2020.emnlp-main.49,2020,Event Extraction by Answering (Almost) Natural Questions,introduction,conclusion
+2020.emnlp-main.50,2020,Connecting the Dots: Event Graph Schema Induction with Path Language Modeling,introduction,conclusion
+2020.emnlp-main.51,2020,Joint Constrained Learning for Event-Event Relation Extraction,introduction,conclusion
+2020.emnlp-main.52,2020,Incremental Event Detection via Knowledge Consolidation Networks,introduction,conclusion
+2020.emnlp-main.53,2020,Semi-supervised New Event Type Induction and Event Detection,introduction,conclusion
+2020.emnlp-main.54,2020,Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph,introduction,conclusion
+2020.emnlp-main.55,2020,Reformulating Unsupervised Style Transfer as Paraphrase Generation,introduction,conclusion
+2020.emnlp-main.56,2020,De-Biased Court’s View Generation with Causality,introduction,conclusion
+2020.emnlp-main.57,2020,PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation,introduction,conclusion
+2020.emnlp-main.58,2020,Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning,introduction,conclusion
+2020.emnlp-main.59,2020,Where Are You? Localization from Embodied Dialog,introduction,conclusion
+2020.emnlp-main.60,2020,Learning to Represent Image and Text with Denotation Graph,introduction,conclusion
+2020.emnlp-main.61,2020,Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning,introduction,conclusion
+2020.emnlp-main.62,2020,Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!,proxy:related_work,conclusion
+2020.emnlp-main.63,2020,MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering,introduction,conclusion
+2020.emnlp-main.64,2020,Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning,introduction,conclusion
+2020.emnlp-main.65,2020,Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness,introduction,conclusion
+2020.emnlp-main.66,2020,TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue,introduction,conclusion
+2020.emnlp-main.67,2020,RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling,introduction,conclusion
+2020.emnlp-main.68,2020,Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness,introduction,conclusion
+2020.emnlp-main.69,2020,Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact,introduction,conclusion
+2020.emnlp-main.70,2020,Predicting Reference: What do Language Models Learn about Discourse Models?,introduction,conclusion
+2020.emnlp-main.71,2020,Word class flexibility: A deep contextualized approach,introduction,conclusion
+2020.emnlp-main.72,2020,Shallow-to-Deep Training for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.73,2020,Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.74,2020,Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers,introduction,conclusion
+2020.emnlp-main.75,2020,Multi-task Learning for Multilingual Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.76,2020,Token-level Adaptive Training for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.77,2020,Multi-Unit Transformers for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.78,2020,On the Sparsity of Neural Machine Translation Models,introduction,conclusion
+2020.emnlp-main.79,2020,Incorporating a Local Translation Mechanism into Non-autoregressive Translation,introduction,conclusion
+2020.emnlp-main.80,2020,Self-Paced Learning for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.81,2020,Long-Short Term Masking Transformer: A Simple but Effective Baseline for Document-level Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.82,2020,Generating Diverse Translation from Model Distribution with Dropout,introduction,conclusion
+2020.emnlp-main.83,2020,Non-Autoregressive Machine Translation with Latent Alignments,introduction,conclusion
+2020.emnlp-main.84,2020,Look at the First Sentence: Position Bias in Question Answering,introduction,conclusion
+2020.emnlp-main.85,2020,ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning,introduction,conclusion
+2020.emnlp-main.86,2020,IIRC: A Dataset of Incomplete Information Reading Comprehension Questions,introduction,conclusion
+2020.emnlp-main.87,2020,Unsupervised Adaptation of Question Answering Systems via Generative Self-training,introduction,"proxy:results: mismatched target conditions,|results: well matched target"
+2020.emnlp-main.88,2020,TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions,introduction,conclusion
+2020.emnlp-main.89,2020,ToTTo: A Controlled Table-To-Text Generation Dataset,introduction,conclusion
+2020.emnlp-main.90,2020,ENT-DESC: Entity Description Generation by Exploring Knowledge Graph,introduction,conclusion
+2020.emnlp-main.91,2020,Small but Mighty: New Benchmarks for Split and Rephrase,introduction,conclusion
+2020.emnlp-main.92,2020,Online Back-Parsing for AMR-to-Text Generation,introduction,conclusion
+2020.emnlp-main.93,2020,Reading Between the Lines: Exploring Infilling in Visual Narratives,introduction,conclusion
+2020.emnlp-main.94,2020,Acrostic Poem Generation,introduction,conclusion
+2020.emnlp-main.95,2020,Local Additivity Based Data Augmentation for Semi-supervised NER,introduction,conclusion
+2020.emnlp-main.96,2020,Grounded Compositional Outputs for Adaptive Language Modeling,introduction,conclusion
+2020.emnlp-main.97,2020,SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness,introduction,conclusion
+2020.emnlp-main.98,2020,SetConv: A New Approach for Learning from Imbalanced Data,introduction,conclusion
+2020.emnlp-main.99,2020,Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering,introduction,conclusion
+2020.emnlp-main.100,2020,Improving Bilingual Lexicon Induction for Low Frequency Words,introduction,conclusion
+2020.emnlp-main.101,2020,Learning VAE-LDA Models with Rounded Reparameterization Trick,introduction,conclusion
+2020.emnlp-main.103,2020,Scaling Hidden Markov Language Models,introduction,conclusion
+2020.emnlp-main.104,2020,Coding Textual Inputs Boosts the Accuracy of Neural Networks,introduction,conclusion
+2020.emnlp-main.105,2020,Learning from Task Descriptions,introduction,conclusion
+2020.emnlp-main.106,2020,"Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics",introduction,conclusion
+2020.emnlp-main.107,2020,Named Entity Recognition for Social Media Texts with Semantic Augmentation,introduction,conclusion
+2020.emnlp-main.108,2020,Coupled Hierarchical Transformer for Stance-Aware Rumor Verification in Social Media Conversations,proxy:background,conclusion
+2020.emnlp-main.109,2020,Social Media Attributions in the Context of Water Crisis,introduction,proxy:results|error analysis|discussion
+2020.emnlp-main.110,2020,On the Reliability and Validity of Detecting Approval of Political Actors in Tweets,introduction,proxy:results|error analysis|discussion
+2020.emnlp-main.118,2020,Benchmarking Meaning Representations in Neural Semantic Parsing,introduction,conclusion
+2020.emnlp-main.119,2020,Analogous Process Structure Induction for Sub-event Sequence Prediction,introduction,conclusion
+2020.emnlp-main.120,2020,SLM: Learning a Discourse Language Representation with Sentence Unshuffling,introduction,conclusion
+2020.emnlp-main.121,2020,Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank,introduction,conclusion
+2020.emnlp-main.122,2020,A Bilingual Generative Transformer for Semantic Sentence Embedding,introduction,conclusion
+2020.emnlp-main.123,2020,Semantically Inspired AMR Alignment for the Portuguese Language,introduction,conclusion
+2020.emnlp-main.124,2020,An Unsupervised Sentence Embedding Method by Mutual Information Maximization,introduction,conclusion
+2020.emnlp-main.125,2020,Compositional Phrase Alignment and Beyond,introduction,proxy:overall results|discussion and future work
+2020.emnlp-main.127,2020,Double Graph Based Reasoning for Document-level Relation Extraction,introduction,conclusion
+2020.emnlp-main.128,2020,Event Extraction as Machine Reading Comprehension,introduction,conclusion
+2020.emnlp-main.129,2020,MAVEN: A Massive General Domain Event Detection Dataset,introduction,conclusion
+2020.emnlp-main.130,2020,Knowledge Graph Alignment with Entity-Pair Embedding,introduction,conclusion
+2020.emnlp-main.131,2020,Adaptive Attentional Network for Few-Shot Knowledge Graph Completion,introduction,conclusion
+2020.emnlp-main.132,2020,Pre-training Entity Relation Encoder with Intra-span and Inter-span Information,introduction,conclusion
+2020.emnlp-main.133,2020,Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders,introduction,conclusion
+2020.emnlp-main.134,2020,Beyond [CLS] through Ranking by Generation,introduction,conclusion
+2020.emnlp-main.135,2020,Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!,introduction,conclusion
+2020.emnlp-main.136,2020,Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning,introduction,conclusion
+2020.emnlp-main.137,2020,Improving Neural Topic Models using Knowledge Distillation,introduction,conclusion
+2020.emnlp-main.138,2020,Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder,introduction,conclusion
+2020.emnlp-main.139,2020,Querying Across Genres for Medical Claims in News,introduction,conclusion
+2020.emnlp-main.140,2020,Incorporating Multimodal Information in Open-Domain Web Keyphrase Extraction,introduction,conclusion
+2020.emnlp-main.141,2020,"CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French",introduction,conclusion
+2020.emnlp-main.142,2020,Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection,introduction,conclusion
+2020.emnlp-main.143,2020,Multimodal Routing: Improving Local and Global Interpretability of Multimodal Language Analysis,introduction,conclusion
+2020.emnlp-main.144,2020,Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos,introduction,conclusion
+2020.emnlp-main.145,2020,BiST: Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues,introduction,conclusion
+2020.emnlp-main.146,2020,UniConv: A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues,introduction,conclusion
+2020.emnlp-main.147,2020,GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems,introduction,conclusion
+2020.emnlp-main.148,2020,Structured Attention for Unsupervised Dialogue Structure Induction,introduction,conclusion
+2020.emnlp-main.150,2020,Multi-turn Response Selection using Dialogue Dependency Relations,introduction,conclusion
+2020.emnlp-main.151,2020,Parallel Interactive Networks for Multi-Domain Dialogue State Generation,introduction,conclusion
+2020.emnlp-main.152,2020,SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling,introduction,conclusion
+2020.emnlp-main.153,2020,An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction,introduction,conclusion
+2020.emnlp-main.154,2020,CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models,introduction,conclusion
+2020.emnlp-main.155,2020,LOGAN: Local Group Bias Detection by Clustering,introduction,conclusion
+2020.emnlp-main.156,2020,RNNs can generate bounded hierarchical languages with optimal memory,introduction,conclusion
+2020.emnlp-main.157,2020,Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation,introduction,proxy:bias analysis
+2020.emnlp-main.158,2020,Visually Grounded Continual Learning of Compositional Phrases,introduction,conclusion
+2020.emnlp-main.159,2020,MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding,introduction,conclusion
+2020.emnlp-main.160,2020,Domain-Specific Lexical Grounding in Noisy Visual-Textual Documents,introduction,proxy:discussion
+2020.emnlp-main.161,2020,HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training,introduction,conclusion
+2020.emnlp-main.162,2020,"Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision",introduction,conclusion
+2020.emnlp-main.163,2020,Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News,introduction,proxy:user study results|results|summary of exploitable weaknesses and defense directions|b user study results|d bidirectional image-sentence retrieval results
+2020.emnlp-main.164,2020,Enhancing Aspect Term Extraction with Soft Prototypes,introduction,conclusion
+2020.emnlp-main.165,2020,FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction,introduction,conclusion
+2020.emnlp-main.166,2020,Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product,introduction,conclusion
+2020.emnlp-main.167,2020,A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression,introduction,conclusion
+2020.emnlp-main.168,2020,Retrofitting Structure-aware Transformer Language Model for End Tasks,introduction,conclusion
+2020.emnlp-main.169,2020,"Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation",introduction,conclusion
+2020.emnlp-main.170,2020,"If beam search is the answer, what was the question?",introduction,conclusion
+2020.emnlp-main.171,2020,Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning,introduction,conclusion
+2020.emnlp-main.172,2020,Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing,introduction,conclusion
+2020.emnlp-main.173,2020,Exploring Logically Dependent Multi-task Learning with Causal Inference,introduction,conclusion
+2020.emnlp-main.174,2020,Masking as an Efficient Alternative to Finetuning for Pretrained Language Models,introduction,conclusion
+2020.emnlp-main.175,2020,Dynamic Context Selection for Document-level Neural Machine Translation via Reinforcement Learning,introduction,conclusion
+2020.emnlp-main.176,2020,Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.177,2020,Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses,introduction,conclusion
+2020.emnlp-main.178,2020,Learning Adaptive Segmentation Policy for Simultaneous Translation,introduction,conclusion
+2020.emnlp-main.180,2020,UDapter: Language Adaptation for Truly Universal Dependency Parsing,introduction,conclusion
+2020.emnlp-main.181,2020,Uncertainty-Aware Label Refinement for Sequence Labeling,introduction,conclusion
+2020.emnlp-main.182,2020,Adversarial Attack and Defense of Structured Prediction Models,introduction,conclusion
+2020.emnlp-main.183,2020,Position-Aware Tagging for Aspect Sentiment Triplet Extraction,introduction,conclusion
+2020.emnlp-main.184,2020,Simultaneous Machine Translation with Visual Context,introduction,conclusion
+2020.emnlp-main.185,2020,XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning,introduction,conclusion
+2020.emnlp-main.186,2020,The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures,introduction,conclusion
+2020.emnlp-main.187,2020,Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations,introduction,conclusion
+2020.emnlp-main.189,2020,Context-Aware Answer Extraction in Question Answering,introduction,conclusion
+2020.emnlp-main.190,2020,What do Models Learn from Question Answering Datasets?,introduction,conclusion
+2020.emnlp-main.191,2020,Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading,introduction,conclusion
+2020.emnlp-main.192,2020,A Method for Building a Commonsense Inference Dataset based on Basic Events,introduction,conclusion
+2020.emnlp-main.193,2020,Neural Deepfake Detection with Factual Structure of Text,introduction,conclusion
+2020.emnlp-main.195,2020,XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques,introduction,conclusion
+2020.emnlp-main.196,2020,Improving AMR Parsing with Sequence-to-Sequence Pre-training,introduction,conclusion
+2020.emnlp-main.197,2020,Hate-Speech and Offensive Language Detection in Roman Urdu,introduction,conclusion
+2020.emnlp-main.198,2020,Suicidal Risk Detection for Military Personnel,introduction,conclusion
+2020.emnlp-main.199,2020,Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets,introduction,conclusion
+2020.emnlp-main.200,2020,HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media,introduction,conclusion
+2020.emnlp-main.201,2020,Reactive Supervision: A New Method for Collecting Sarcasm Data,introduction,conclusion
+2020.emnlp-main.202,2020,Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.203,2020,Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems,introduction,conclusion
+2020.emnlp-main.205,2020,Translation Quality Estimation by Jointly Learning to Score and Rank,introduction,conclusion
+2020.emnlp-main.206,2020,Direct Segmentation Models for Streaming Speech Translation,introduction,conclusion
+2020.emnlp-main.207,2020,"Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation",introduction,conclusion
+2020.emnlp-main.209,2020,Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias,introduction,conclusion
+2020.emnlp-main.210,2020,Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information,introduction,conclusion
+2020.emnlp-main.211,2020,Losing Heads in the Lottery: Pruning Transformer Attention in Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.212,2020,Towards Enhancing Faithfulness for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.213,2020,COMET: A Neural Framework for MT Evaluation,introduction,conclusion
+2020.emnlp-main.214,2020,Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT,introduction,conclusion
+2020.emnlp-main.215,2020,LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space,introduction,conclusion
+2020.emnlp-main.216,2020,Uncertainty-Aware Semantic Augmentation for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.217,2020,Can Automatic Post-Editing Improve NMT?,introduction,conclusion
+2020.emnlp-main.218,2020,Parsing Gapping Constructions Based on Grammatical and Semantic Roles,introduction,conclusion
+2020.emnlp-main.220,2020,Some Languages Seem Easier to Parse Because Their Treebanks Leak,introduction,conclusion
+2020.emnlp-main.221,2020,Discontinuous Constituent Parsing as Sequence Labeling,introduction,conclusion
+2020.emnlp-main.222,2020,Modularized Syntactic Neural Networks for Sentence Classification,introduction,conclusion
+2020.emnlp-main.223,2020,TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks,introduction,conclusion
+2020.emnlp-main.225,2020,Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays,introduction,conclusion
+2020.emnlp-main.226,2020,MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models,introduction,conclusion
+2020.emnlp-main.227,2020,Incomplete Utterance Rewriting as Semantic Segmentation,introduction,conclusion
+2020.emnlp-main.228,2020,Improving Grammatical Error Correction Models with Purpose-Built Adversarial Examples,introduction,conclusion
+2020.emnlp-main.229,2020,Homophonic Pun Generation with Lexically Constrained Rewriting,introduction,conclusion
+2020.emnlp-main.230,2020,How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue,introduction,proxy:discussion
+2020.emnlp-main.231,2020,Multilingual AMR-to-Text Generation,introduction,conclusion
+2020.emnlp-main.232,2020,Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation,introduction,conclusion
+2020.emnlp-main.233,2020,Lifelong Language Knowledge Distillation,introduction,conclusion
+2020.emnlp-main.234,2020,Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models,introduction,conclusion
+2020.emnlp-main.235,2020,Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs,introduction,conclusion
+2020.emnlp-main.236,2020,Word Rotator’s Distance,introduction,conclusion
+2020.emnlp-main.237,2020,Disentangle-based Continual Graph Representation Learning,introduction,conclusion
+2020.emnlp-main.238,2020,Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction,introduction,conclusion
+2020.emnlp-main.240,2020,A Simple Approach to Learning Unsupervised Multilingual Embeddings,introduction,conclusion
+2020.emnlp-main.241,2020,Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games,introduction,conclusion
+2020.emnlp-main.243,2020,Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking,introduction,conclusion
+2020.emnlp-main.244,2020,Don’t Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering,introduction,conclusion
+2020.emnlp-main.245,2020,Multi-Step Inference for Reasoning Over Paragraphs,introduction,conclusion
+2020.emnlp-main.246,2020,Learning a Cost-Effective Annotation Policy for Question Answering,introduction,conclusion
+2020.emnlp-main.247,2020,Scene Restoring for Narrative Machine Reading Comprehension,introduction,conclusion
+2020.emnlp-main.248,2020,A Simple and Effective Model for Answering Multi-span Questions,introduction,conclusion
+2020.emnlp-main.249,2020,Top-Rank-Focused Adaptive Vote Collection for the Evaluation of Domain-Specific Semantic Models,introduction,conclusion
+2020.emnlp-main.250,2020,Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining,introduction,conclusion
+2020.emnlp-main.251,2020,Incorporating Behavioral Hypotheses for Query Generation,introduction,conclusion
+2020.emnlp-main.252,2020,Conditional Causal Relationships between Emotions and Causes in Texts,introduction,conclusion
+2020.emnlp-main.253,2020,COMETA: A Corpus for Medical Entity Linking in the Social Media,introduction,conclusion
+2020.emnlp-main.254,2020,Pareto Probing: Trading Off Accuracy for Complexity,introduction,conclusion
+2020.emnlp-main.255,2020,Interpretation of NLP models through input marginalization,introduction,conclusion
+2020.emnlp-main.256,2020,Generating Label Cohesive and Well-Formed Adversarial Claims,introduction,conclusion
+2020.emnlp-main.257,2020,Are All Good Word Vector Spaces Isomorphic?,introduction,conclusion
+2020.emnlp-main.258,2020,Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks,introduction,conclusion
+2020.emnlp-main.259,2020,"When BERT Plays the Lottery, All Tickets Are Winning",introduction,conclusion
+2020.emnlp-main.260,2020,On the weak link between importance and prunability of attention heads,introduction,conclusion
+2020.emnlp-main.261,2020,Towards Interpreting BERT for Reading Comprehension Based QA,introduction,conclusion
+2020.emnlp-main.262,2020,How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking,introduction,conclusion
+2020.emnlp-main.263,2020,A Diagnostic Study of Explainability Techniques for Text Classification,introduction,conclusion
+2020.emnlp-main.264,2020,STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering,introduction,conclusion
+2020.emnlp-main.265,2020,Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering,introduction,conclusion
+2020.emnlp-main.266,2020,Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization,introduction,conclusion
+2020.emnlp-main.267,2020,A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses,introduction,conclusion
+2020.emnlp-main.268,2020,Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings,introduction,conclusion
+2020.emnlp-main.269,2020,VD-BERT: A Unified Vision and Dialog Transformer with BERT,introduction,conclusion
+2020.emnlp-main.270,2020,The Grammar of Emergent Languages,introduction,conclusion
+2020.emnlp-main.271,2020,Sub-Instruction Aware Vision-and-Language Navigation,introduction,conclusion
+2020.emnlp-main.272,2020,Knowledge-Grounded Dialogue Generation with Pre-trained Language Models,introduction,conclusion
+2020.emnlp-main.273,2020,MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems,introduction,conclusion
+2020.emnlp-main.274,2020,Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation,introduction,conclusion
+2020.emnlp-main.275,2020,Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation,introduction,conclusion
+2020.emnlp-main.276,2020,Counterfactual Off-Policy Training for Neural Dialogue Generation,introduction,conclusion
+2020.emnlp-main.277,2020,Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data,introduction,conclusion
+2020.emnlp-main.278,2020,Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network,introduction,conclusion
+2020.emnlp-main.279,2020,Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks,introduction,conclusion
+2020.emnlp-main.280,2020,AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue,introduction,conclusion
+2020.emnlp-main.281,2020,Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training,introduction,conclusion
+2020.emnlp-main.282,2020,Task-oriented Domain-specific Meta-Embedding for Text Classification,introduction,conclusion
+2020.emnlp-main.283,2020,Don’t Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation,introduction,conclusion
+2020.emnlp-main.284,2020,Within-Between Lexical Relation Classification,introduction,conclusion
+2020.emnlp-main.285,2020,With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation,introduction,conclusion
+2020.emnlp-main.286,2020,Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis,introduction,conclusion
+2020.emnlp-main.287,2020,Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis,introduction,conclusion
+2020.emnlp-main.288,2020,Aspect Sentiment Classification with Aspect-Specific Opinion Spans,introduction,conclusion
+2020.emnlp-main.289,2020,Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme,introduction,conclusion
+2020.emnlp-main.290,2020,End-to-End Emotion-Cause Pair Extraction based on Sliding Window Multi-Label Learning,introduction,conclusion
+2020.emnlp-main.291,2020,Multi-modal Multi-label Emotion Detection with Modality and Label Dependence,introduction,conclusion
+2020.emnlp-main.292,2020,"Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis",introduction,conclusion
+2020.emnlp-main.293,2020,Modeling Content Importance for Summarization with Pre-trained Language Models,introduction,conclusion
+2020.emnlp-main.294,2020,Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning,introduction,proxy:last_section:empty
+2020.emnlp-main.295,2020,Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network,introduction,conclusion
+2020.emnlp-main.296,2020,Coarse-to-Fine Query Focused Multi-Document Summarization,introduction,conclusion
+2020.emnlp-main.297,2020,Pre-training for Abstractive Document Summarization by Reinstating Source Text,introduction,conclusion
+2020.emnlp-main.298,2020,Learning from Context or Names? An Empirical Study on Neural Relation Extraction,introduction,conclusion
+2020.emnlp-main.299,2020,SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction,introduction,conclusion
+2020.emnlp-main.300,2020,Denoising Relation Extraction from Document-level Distant Supervision,introduction,conclusion
+2020.emnlp-main.301,2020,Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction!,introduction,conclusion
+2020.emnlp-main.302,2020,Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data,introduction,conclusion
+2020.emnlp-main.303,2020,Global-to-Local Neural Networks for Document-Level Relation Extraction,introduction,conclusion
+2020.emnlp-main.304,2020,Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations,introduction,conclusion
+2020.emnlp-main.305,2020,Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols,introduction,conclusion
+2020.emnlp-main.306,2020,OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction,introduction,conclusion
+2020.emnlp-main.315,2020,Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble,introduction,conclusion
+2020.emnlp-main.316,2020,DagoBERT: Generating Derivational Morphology with a Pretrained Language Model,introduction,conclusion
+2020.emnlp-main.317,2020,Attention Is All You Need for Chinese Word Segmentation,introduction,conclusion
+2020.emnlp-main.318,2020,A Joint Multiple Criteria Model in Transfer Learning for Cross-domain Chinese Word Segmentation,introduction,conclusion
+2020.emnlp-main.319,2020,Alignment-free Cross-lingual Semantic Role Labeling,introduction,conclusion
+2020.emnlp-main.320,2020,Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection,introduction,conclusion
+2020.emnlp-main.321,2020,X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset,introduction,conclusion
+2020.emnlp-main.322,2020,Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling,introduction,conclusion
+2020.emnlp-main.323,2020,Fast semantic parsing with well-typedness guarantees,introduction,conclusion
+2020.emnlp-main.324,2020,Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes,introduction,proxy:results on the larson dataset|results on the finance dataset|results in a pool of chatbots|final remarks
+2020.emnlp-main.325,2020,Supervised Seeded Iterated Learning for Interactive Language Learning,introduction,conclusion
+2020.emnlp-main.326,2020,Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems,introduction,conclusion
+2020.emnlp-main.327,2020,Human-centric dialog training via offline reinforcement learning,introduction,proxy:discussion
+2020.emnlp-main.328,2020,Speakers Fill Lexical Semantic Gaps with Context,introduction,conclusion
+2020.emnlp-main.329,2020,Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model,introduction,conclusion
+2020.emnlp-main.330,2020,Surprisal Predicts Code-Switching in Chinese-English Bilingual Text,introduction,conclusion
+2020.emnlp-main.331,2020,Word Frequency Does Not Predict Grammatical Knowledge in Language Models,introduction,proxy:discussion
+2020.emnlp-main.332,2020,Improving Word Sense Disambiguation with Translations,introduction,conclusion
+2020.emnlp-main.334,2020,Compositional Demographic Word Embeddings,introduction,conclusion
+2020.emnlp-main.336,2020,Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization,introduction,conclusion
+2020.emnlp-main.337,2020,Few-Shot Learning for Opinion Summarization,introduction,conclusion
+2020.emnlp-main.338,2020,Learning to Fuse Sentences with Transformers for Summarization,introduction,conclusion
+2020.emnlp-main.339,2020,Stepwise Extractive Summarization and Planning with Structured Transformers,introduction,conclusion
+2020.emnlp-main.340,2020,CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval,introduction,conclusion
+2020.emnlp-main.341,2020,SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search,introduction,conclusion
+2020.emnlp-main.342,2020,Modularized Transfomer-based Ranking Framework,introduction,conclusion
+2020.emnlp-main.343,2020,Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2,introduction,conclusion
+2020.emnlp-main.344,2020,Adversarial Semantic Collisions,introduction,conclusion
+2020.emnlp-main.345,2020,Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification,introduction,conclusion
+2020.emnlp-main.346,2020,AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts,introduction,conclusion
+2020.emnlp-main.347,2020,Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers,introduction,conclusion
+2020.emnlp-main.348,2020,Sparse Text Generation,introduction,conclusion
+2020.emnlp-main.349,2020,PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking,introduction,conclusion
+2020.emnlp-main.350,2020,Do sequence-to-sequence VAEs learn global features of sentences?,introduction,conclusion
+2020.emnlp-main.351,2020,Content Planning for Neural Story Generation with Aristotelian Rescoring,introduction,conclusion
+2020.emnlp-main.352,2020,Generating Dialogue Responses from a Semantic Latent Space,introduction,conclusion
+2020.emnlp-main.354,2020,Visually Grounded Compound PCFGs,introduction,conclusion
+2020.emnlp-main.355,2020,ALICE: Active Learning with Contrastive Natural Language Explanations,introduction,conclusion
+2020.emnlp-main.356,2020,Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding,introduction,conclusion
+2020.emnlp-main.357,2020,SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning,introduction,conclusion
+2020.emnlp-main.358,2020,Identifying Elements Essential for BERT’s Multilinguality,introduction,conclusion
+2020.emnlp-main.359,2020,On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment,introduction,conclusion
+2020.emnlp-main.360,2020,Pre-tokenization of Multi-word Expressions in Cross-lingual Word Embeddings,introduction,conclusion
+2020.emnlp-main.361,2020,Monolingual Adapters for Zero-Shot Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.362,2020,Do Explicit Alignments Robustly Improve Multilingual Encoders?,introduction,proxy:result|discussion
+2020.emnlp-main.363,2020,From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers,introduction,conclusion
+2020.emnlp-main.364,2020,Distilling Multiple Domains for Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.365,2020,Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation,introduction,conclusion
+2020.emnlp-main.366,2020,A Streaming Approach For Efficient Batched Beam Search,introduction,proxy:discussion
+2020.emnlp-main.367,2020,Improving Multilingual Models with Language-Clustered Vocabularies,introduction,conclusion
+2020.emnlp-main.368,2020,Zero-Shot Cross-Lingual Transfer with Meta Learning,introduction,conclusion
+2020.emnlp-main.369,2020,The Multilingual Amazon Reviews Corpus,introduction,conclusion
+2020.emnlp-main.370,2020,GLUCOSE: GeneraLized and COntextualized Story Explanations,introduction,conclusion
+2020.emnlp-main.371,2020,Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT,introduction,conclusion
+2020.emnlp-main.372,2020,"Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition",introduction,conclusion
+2020.emnlp-main.373,2020,Unsupervised Commonsense Question Answering with Self-Talk,introduction,conclusion
+2020.emnlp-main.374,2020,"Reasoning about Goals, Steps, and Temporal Ordering with WikiHow",introduction,proxy:summary
+2020.emnlp-main.375,2020,Structural Supervision Improves Few-Shot Learning and Syntactic Generalization in Neural Language Models,introduction,proxy:discussion
+2020.emnlp-main.376,2020,Investigating representations of verb bias in neural language models,introduction,conclusion
+2020.emnlp-main.377,2020,Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze,introduction,conclusion
+2020.emnlp-main.381,2020,RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark,introduction,conclusion
+2020.emnlp-main.388,2020,Keep it Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit,introduction,conclusion
+2020.emnlp-main.389,2020,Unsupervised Parsing via Constituency Tests,introduction,conclusion
+2020.emnlp-main.390,2020,Please Mind the Root: Decoding Arborescences for Dependency Parsing,introduction,conclusion
+2020.emnlp-main.391,2020,Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios,introduction,conclusion
+2020.emnlp-main.392,2020,Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders,introduction,conclusion
+2020.emnlp-main.394,2020,An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training,introduction,conclusion
+2020.emnlp-main.395,2020,Analyzing Individual Neurons in Pre-trained Language Models,introduction,conclusion
+2020.emnlp-main.396,2020,Dissecting Span Identification Tasks with Performance Prediction,introduction,conclusion
+2020.emnlp-main.397,2020,Assessing Phrasal Representation and Composition in Transformers,introduction,conclusion
+2020.emnlp-main.398,2020,Analyzing Redundancy in Pretrained Transformer Models,introduction,conclusion
+2020.emnlp-main.399,2020,Be More with Less: Hypergraph Attention Networks for Inductive Text Classification,introduction,conclusion
+2020.emnlp-main.400,2020,Entities as Experts: Sparse Memory Access with Entity Supervision,introduction,conclusion
+2020.emnlp-main.402,2020,Does the Objective Matter? Comparing Training Objectives for Pronoun Resolution,introduction,proxy:results|summary and outlook
+2020.emnlp-main.403,2020,On Losses for Modern Language Models,introduction,conclusion
+2020.emnlp-main.404,2020,We Can Detect Your Bias: Predicting the Political Ideology of News Articles,introduction,conclusion
+2020.emnlp-main.405,2020,Semantic Label Smoothing for Sequence to Sequence Problems,introduction,conclusion
+2020.emnlp-main.406,2020,Training for Gibbs Sampling on Conditional Random Fields with Neural Scoring Factors,introduction,conclusion
+2020.emnlp-main.407,2020,Multilevel Text Alignment with Cross-Document Attention,introduction,conclusion
+2020.emnlp-main.408,2020,Conversational Semantic Parsing,introduction,conclusion
+2020.emnlp-main.409,2020,Probing Task-Oriented Dialogue Representation from Language Models,introduction,conclusion
+2020.emnlp-main.410,2020,End-to-End Slot Alignment and Recognition for Cross-Lingual NLU,introduction,conclusion
+2020.emnlp-main.411,2020,Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference,introduction,conclusion
+2020.emnlp-main.412,2020,Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging,introduction,conclusion
+2020.emnlp-main.413,2020,Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing,introduction,conclusion
+2020.emnlp-main.414,2020,Sound Natural: Content Rephrasing in Dialog Systems,introduction,conclusion
+2020.emnlp-main.415,2020,Zero-Shot Crosslingual Sentence Simplification,introduction,conclusion
+2020.emnlp-main.416,2020,Facilitating the Communication of Politeness through Fine-Grained Paraphrasing,introduction,proxy:error analysis|discussion
+2020.emnlp-main.417,2020,CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation,introduction,conclusion
+2020.emnlp-main.418,2020,Seq2Edits: Sequence Transduction Using Span-level Edit Operations,introduction,proxy:discussion
+2020.emnlp-main.419,2020,Controllable Meaning Representation to Text Generation: Linearization and Data Augmentation Strategies,introduction,conclusion
+2020.emnlp-main.420,2020,Blank Language Models,introduction,conclusion
+2020.emnlp-main.422,2020,Automatic Extraction of Rules Governing Morphological Agreement,introduction,proxy:manual evaluation results|future work
+2020.emnlp-main.423,2020,Tackling the Low-resource Challenge for Canonical Segmentation,introduction,conclusion
+2020.emnlp-main.424,2020,IGT2P: From Interlinear Glossed Texts to Paradigms,introduction,conclusion
+2020.emnlp-main.425,2020,A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support,introduction,conclusion
+2020.emnlp-main.426,2020,Modeling Protagonist Emotions for Emotion-Aware Storytelling,introduction,conclusion
+2020.emnlp-main.427,2020,Help! Need Advice on Identifying Advice,introduction,conclusion
+2020.emnlp-main.428,2020,Quantifying Intimacy in Language,introduction,conclusion
+2020.emnlp-main.429,2020,Writing Strategies for Science Communication: Data and Computational Analysis,introduction,conclusion
+2020.emnlp-main.430,2020,Weakly Supervised Subevent Knowledge Acquisition,introduction,conclusion
+2020.emnlp-main.431,2020,Biomedical Event Extraction as Sequence Labeling,introduction,conclusion
+2020.emnlp-main.432,2020,Annotating Temporal Dependency Graphs via Crowdsourcing,introduction,conclusion
+2020.emnlp-main.433,2020,Introducing a New Dataset for Event Detection in Cybersecurity Texts,introduction,conclusion
+2020.emnlp-main.434,2020,CHARM: Inferring Personal Attributes from Conversations,introduction,conclusion
+2020.emnlp-main.435,2020,Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks,introduction,conclusion
+2020.emnlp-main.436,2020,Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events,introduction,conclusion
+2020.emnlp-main.437,2020,How Much Knowledge Can You Pack Into the Parameters of a Language Model?,introduction,conclusion
+2020.emnlp-main.438,2020,EXAMS: A Multi-subject High School Examinations Dataset for Cross-lingual and Multilingual Question Answering,introduction,conclusion
+2020.emnlp-main.439,2020,End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems,introduction,conclusion
+2020.emnlp-main.440,2020,Multi-Stage Pre-training for Low-Resource Domain Adaptation,introduction,conclusion
+2020.emnlp-main.442,2020,SubjQA: A Dataset for Subjectivity and Review Comprehension,introduction,conclusion
+2020.emnlp-main.443,2020,Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements,introduction,conclusion
+2020.emnlp-main.444,2020,Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning,introduction,conclusion
+2020.emnlp-main.445,2020,Digital Voicing of Silent Speech,introduction,conclusion
+2020.emnlp-main.446,2020,Imitation Attacks and Defenses for Black-box Machine Translation Systems,introduction,conclusion
+2020.emnlp-main.447,2020,Sequence-Level Mixed Sample Data Augmentation,introduction,conclusion
+2020.emnlp-main.448,2020,Consistency of a Recurrent Language Model With Respect to Incomplete Decoding,introduction,conclusion
+2020.emnlp-main.449,2020,An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks,introduction,conclusion
+2020.emnlp-main.451,2020,Inducing Target-Specific Latent Structures for Aspect Sentiment Classification,introduction,conclusion
+2020.emnlp-main.452,2020,Affective Event Classification with Discourse-enhanced Self-training,introduction,conclusion
+2020.emnlp-main.453,2020,Deep Weighted MaxSAT for Aspect-based Opinion Extraction,introduction,conclusion
+2020.emnlp-main.454,2020,Multi-view Story Characterization from Movie Plot Synopses and Reviews,introduction,conclusion
+2020.emnlp-main.455,2020,Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding,introduction,conclusion
+2020.emnlp-main.456,2020,Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions,introduction,conclusion
+2020.emnlp-main.457,2020,RethinkCWS: Is Chinese Word Segmentation a Solved Task?,introduction,proxy:analysis of holistic evaluation|analysis of dataset biases|analysis of model biases|analysis|discussion
+2020.emnlp-main.458,2020,Learning to Pronounce Chinese Without a Pronunciation Dictionary,proxy:first_section:Unsupervised Text-to-Pronunciation,conclusion
+2020.emnlp-main.459,2020,Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph,introduction,conclusion
+2020.emnlp-main.460,2020,Knowledge Association with Hyperbolic Knowledge Graph Embeddings,introduction,conclusion
+2020.emnlp-main.461,2020,Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction,introduction,conclusion
+2020.emnlp-main.462,2020,TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion,introduction,conclusion
+2020.emnlp-main.463,2020,Understanding the Difficulty of Training Transformers,introduction,conclusion
+2020.emnlp-main.464,2020,An Empirical Study of Generation Order for Machine Translation,introduction,conclusion
+2020.emnlp-main.465,2020,Inference Strategies for Machine Translation with Conditional Masking,introduction,conclusion
+2020.emnlp-main.466,2020,AmbigQA: Answering Ambiguous Open-domain Questions,introduction,conclusion
+2020.emnlp-main.467,2020,Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space,introduction,conclusion
+2020.emnlp-main.468,2020,Training Question Answering Models From Synthetic Data,introduction,conclusion
+2020.emnlp-main.469,2020,Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning,introduction,conclusion
+2020.emnlp-main.470,2020,Multilingual Offensive Language Identification with Cross-lingual Embeddings,introduction,conclusion
+2020.emnlp-main.471,2020,Solving Historical Dictionary Codes with a Neural Language Model,introduction,conclusion
+2020.emnlp-main.472,2020,Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments,introduction,conclusion
+2020.emnlp-main.473,2020,Investigating African-American Vernacular English in Transformer-Based Text Generation,introduction,conclusion
+2020.emnlp-main.474,2020,Iterative Domain-Repaired Back-Translation,introduction,conclusion
+2020.emnlp-main.475,2020,Dynamic Data Selection and Weighting for Iterative Back-Translation,introduction,conclusion
+2020.emnlp-main.476,2020,Revisiting Modularized Multilingual NMT to Meet Industrial Demands,introduction,conclusion
+2020.emnlp-main.477,2020,LAReQA: Language-Agnostic Answer Retrieval from a Multilingual Pool,introduction,conclusion
+2020.emnlp-main.478,2020,OCR Post Correction for Endangered Language Texts,introduction,conclusion
+2020.emnlp-main.479,2020,X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models,introduction,conclusion
+2020.emnlp-main.480,2020,CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs,introduction,conclusion
+2020.emnlp-main.481,2020,Localizing Open-Ontology QA Semantic Parsers in a Day Using Machine Translation,introduction,conclusion
+2020.emnlp-main.482,2020,Interactive Refinement of Cross-Lingual Word Embeddings,introduction,conclusion
+2020.emnlp-main.483,2020,Exploiting Sentence Order in Document Alignment,proxy:related_work,conclusion
+2020.emnlp-main.485,2020,AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network,introduction,conclusion
+2020.emnlp-main.486,2020,HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction,introduction,conclusion
+2020.emnlp-main.487,2020,Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks,introduction,conclusion
+2020.emnlp-main.489,2020,Interpretable Multi-dataset Evaluation for Named Entity Recognition,introduction,proxy:holistic analysis|fine-grained analysis|exp-i: model-wise analysis|exp-ii: attribute-wise analysis|exp-iii: bucket-wise analysis|results and analysis
+2020.emnlp-main.490,2020,Adversarial Semantic Decoupling for Recognizing Open-Vocabulary Slots,introduction,conclusion
+2020.emnlp-main.491,2020,Plug and Play Autoencoders for Conditional Text Generation,introduction,conclusion
+2020.emnlp-main.492,2020,Structure Aware Negative Sampling in Knowledge Graphs,introduction,conclusion
+2020.emnlp-main.493,2020,Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation,introduction,conclusion
+2020.emnlp-main.494,2020,Autoregressive Knowledge Distillation through Imitation Learning,introduction,conclusion
+2020.emnlp-main.496,2020,Structured Pruning of Large Language Models,introduction,conclusion
+2020.emnlp-main.497,2020,Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models,introduction,conclusion
+2020.emnlp-main.498,2020,BAE: BERT-based Adversarial Examples for Text Classification,introduction,conclusion
+2020.emnlp-main.499,2020,Adversarial Self-Supervised Data-Free Distillation for Text Classification,introduction,conclusion
+2020.emnlp-main.500,2020,BERT-ATTACK: Adversarial Attack Against BERT Using BERT,introduction,conclusion
+2020.emnlp-main.502,2020,When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models,introduction,conclusion
+2020.emnlp-main.503,2020,Interpreting Open-Domain Modifiers: Decomposition of Wikipedia Categories into Disambiguated Property-Value Pairs,introduction,conclusion
+2020.emnlp-main.504,2020,A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation,introduction,conclusion
+2020.emnlp-main.505,2020,"Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation",introduction,conclusion
+2020.emnlp-main.506,2020,Factual Error Correction for Abstractive Summarization Models,introduction,conclusion
+2020.emnlp-main.507,2020,Compressive Summarization with Plausibility and Salience Modeling,introduction,conclusion
+2020.emnlp-main.508,2020,Understanding Neural Abstractive Summarization Models via Uncertainty,introduction,conclusion
+2020.emnlp-main.509,2020,Better Highlighting: Creating Sub-Sentence Summary Highlights,introduction,conclusion
+2020.emnlp-main.510,2020,Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach,introduction,conclusion
+2020.emnlp-main.511,2020,BERT-enhanced Relational Sentence Ordering Network,introduction,conclusion
+2020.emnlp-main.512,2020,Online Conversation Disentanglement with Pointer Networks,introduction,conclusion
+2020.emnlp-main.513,2020,VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling,introduction,conclusion
+2020.emnlp-main.514,2020,Coarse-to-Fine Pre-training for Named Entity Recognition,introduction,conclusion
+2020.emnlp-main.515,2020,"Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment",introduction,conclusion
+2020.emnlp-main.516,2020,Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning,introduction,conclusion
+2020.emnlp-main.518,2020,Entity Enhanced BERT Pre-training for Chinese NER,introduction,conclusion
+2020.emnlp-main.519,2020,Scalable Zero-shot Entity Linking with Dense Entity Retrieval,introduction,conclusion
+2020.emnlp-main.520,2020,A Dataset for Tracking Entities in Open Domain Procedural Text,introduction,conclusion
+2020.emnlp-main.521,2020,Design Challenges in Low-resource Cross-lingual Entity Linking,introduction,conclusion
+2020.emnlp-main.522,2020,Efficient One-Pass End-to-End Entity Linking for Questions,introduction,conclusion
+2020.emnlp-main.523,2020,LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention,introduction,conclusion
+2020.emnlp-main.524,2020,Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation,introduction,conclusion
+2020.emnlp-main.525,2020,STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation,introduction,conclusion
+2020.emnlp-main.526,2020,Substance over Style: Document-Level Targeted Content Transfer,introduction,conclusion
+2020.emnlp-main.527,2020,Template Guided Text Generation for Task-Oriented Dialogue,introduction,conclusion
+2020.emnlp-main.528,2020,MOCHA: A Dataset for Training and Evaluating Generative Reading Comprehension Metrics,introduction,conclusion
+2020.emnlp-main.529,2020,Plan ahead: Self-Supervised Text Planning for Paragraph Completion Task,introduction,conclusion
+2020.emnlp-main.530,2020,Inquisitive Question Generation for High Level Text Comprehension,introduction,conclusion
+2020.emnlp-main.531,2020,Towards Persona-Based Empathetic Conversational Models,introduction,conclusion
+2020.emnlp-main.532,2020,Personal Information Leakage Detection in Conversations,introduction,conclusion
+2020.emnlp-main.533,2020,Response Selection for Multi-Party Conversations with Dynamic Topic Tracking,introduction,conclusion
+2020.emnlp-main.534,2020,Regularizing Dialogue Generation by Imitating Implicit Scenarios,introduction,conclusion
+2020.emnlp-main.535,2020,MovieChats: Chat like Humans in a Closed Domain,introduction,conclusion
+2020.emnlp-main.537,2020,Semantic Role Labeling Guided Multi-turn Dialogue ReWriter,introduction,conclusion
+2020.emnlp-main.538,2020,"Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations",introduction,conclusion
+2020.emnlp-main.539,2020,Profile Consistency Identification for Open-domain Dialogue Agents,introduction,conclusion
+2020.emnlp-main.543,2020,Less is More: Attention Supervision with Counterfactuals for Text Classification,introduction,conclusion
+2020.emnlp-main.548,2020,Towards Interpretable Reasoning over Paragraph Effects in Situation,introduction,conclusion
+2020.emnlp-main.549,2020,Question Directed Graph Attention Network for Numerical Reasoning over Text,introduction,conclusion
+2020.emnlp-main.550,2020,Dense Passage Retrieval for Open-Domain Question Answering,introduction,conclusion
+2020.emnlp-main.551,2020,Distilling Structured Knowledge for Text-Based Relational Reasoning,introduction,conclusion
+2020.emnlp-main.552,2020,Asking without Telling: Exploring Latent Ontologies in Contextual Representations,introduction,conclusion
+2020.emnlp-main.553,2020,Pretrained Language Model Embryology: The Birth of ALBERT,introduction,conclusion
+2020.emnlp-main.554,2020,Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models,introduction,proxy:results|discussion
+2020.emnlp-main.557,2020,Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models,introduction,conclusion
+2020.emnlp-main.558,2020,Grounded Adaptation for Zero-shot Executable Semantic Parsing,introduction,conclusion
+2020.emnlp-main.559,2020,An Imitation Game for Learning Semantic Parsers from User Interaction,introduction,conclusion
+2020.emnlp-main.560,2020,IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation,introduction,conclusion
+2020.emnlp-main.562,2020,DuSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset,introduction,conclusion
+2020.emnlp-main.563,2020,Mention Extraction and Linking for SQL Query Generation,introduction,conclusion
+2020.emnlp-main.564,2020,Re-examining the Role of Schema Linking in Text-to-SQL,introduction,conclusion
+2020.emnlp-main.565,2020,A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis,introduction,conclusion
+2020.emnlp-main.566,2020,Train No Evil: Selective Masking for Task-Guided Pre-Training,introduction,conclusion
+2020.emnlp-main.567,2020,SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge,introduction,conclusion
+2020.emnlp-main.568,2020,Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding,introduction,conclusion
+2020.emnlp-main.569,2020,APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning,introduction,conclusion
+2020.emnlp-main.570,2020,Diversified Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classification,introduction,conclusion
+2020.emnlp-main.571,2020,Identifying Exaggerated Language,introduction,conclusion
+2020.emnlp-main.572,2020,Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis,introduction,conclusion
+2020.emnlp-main.573,2020,"Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA",introduction,conclusion
+2020.emnlp-main.574,2020,Attention is Not Only a Weight: Analyzing Transformers with Vector Norms,introduction,conclusion
+2020.emnlp-main.575,2020,F1 is Not Enough! Models and Evaluation Towards User-Centered Explainable Question Answering,introduction,conclusion
+2020.emnlp-main.576,2020,On the Ability and Limitations of Transformers to Recognize Formal Languages,introduction,proxy:expressiveness results|results on counter languages|results on regular languages|discussion|c expressiveness results
+2020.emnlp-main.582,2020,Coreferential Reasoning Learning for Language Representation,introduction,conclusion
+2020.emnlp-main.583,2020,Is Graph Structure Necessary for Multi-hop Question Answering?,introduction,conclusion
+2020.emnlp-main.584,2020,XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization,introduction,conclusion
+2020.emnlp-main.586,2020,Probing Pretrained Language Models for Lexical Semantics,introduction,conclusion
+2020.emnlp-main.588,2020,SLURP: A Spoken Language Understanding Resource Package,introduction,conclusion
+2020.emnlp-main.589,2020,Neural Conversational QA: Learning to Reason vs Exploiting Patterns,introduction,conclusion
+2020.emnlp-main.590,2020,Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition,introduction,conclusion
+2020.emnlp-main.591,2020,Understanding Procedural Text using Interactive Entity Networks,introduction,conclusion
+2020.emnlp-main.592,2020,A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?,introduction,conclusion
+2020.emnlp-main.593,2020,DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion,introduction,conclusion
+2020.emnlp-main.594,2020,Embedding Words in Non-Vector Space with Unsupervised Graph Learning,introduction,conclusion
+2020.emnlp-main.595,2020,Debiasing knowledge graph embeddings,introduction,proxy:results|summary
+2020.emnlp-main.596,2020,Message Passing for Hyper-Relational Knowledge Graphs,introduction,conclusion
+2020.emnlp-main.597,2020,Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations,introduction,conclusion
+2020.emnlp-main.598,2020,"BERT Knows Punta Cana is not just beautiful, it’s gorgeous: Ranking Scalar Adjectives with Contextualised Representations",introduction,conclusion
+2020.emnlp-main.599,2020,Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training,introduction,conclusion
+2020.emnlp-main.602,2020,PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction,introduction,conclusion
+2020.emnlp-main.603,2020,MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision,introduction,conclusion
+2020.emnlp-main.604,2020,Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments,introduction,conclusion
+2020.emnlp-main.605,2020,Keeping Up Appearances: Computational Modeling of Face Acts in Persuasion Oriented Discussions,introduction,conclusion
+2020.emnlp-main.610,2020,Semantic Role Labeling as Syntactic Dependency Parsing,introduction,conclusion
+2020.emnlp-main.611,2020,PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge,introduction,conclusion
+2020.emnlp-main.612,2020,Causal Inference of Script Knowledge,introduction,conclusion
+2020.emnlp-main.613,2020,Towards Debiasing NLU Models from Unknown Biases,introduction,conclusion
+2020.emnlp-main.614,2020,On the Role of Supervision in Unsupervised Constituency Parsing,introduction,proxy:discussion
+2020.emnlp-main.615,2020,Language Model Prior for Low-Resource Neural Machine Translation,introduction,conclusion
+2020.emnlp-main.616,2020,Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks,introduction,conclusion
+2020.emnlp-main.617,2020,MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer,introduction,conclusion
+2020.emnlp-main.618,2020,Translation Artifacts in Cross-lingual Transfer Learning,introduction,conclusion
+2020.emnlp-main.619,2020,A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media,introduction,conclusion
+2020.emnlp-main.620,2020,Weakly Supervised Learning of Nuanced Frames for Analyzing Polarization in News Media,introduction,proxy:summary
+2020.emnlp-main.621,2020,Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News,introduction,conclusion
+2020.emnlp-main.622,2020,Fortifying Toxic Speech Detectors Against Veiled Toxicity,proxy:first_section:empty,conclusion
+2020.emnlp-main.624,2020,Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning,introduction,conclusion
+2020.emnlp-main.625,2020,DORB: Dynamically Optimizing Multiple Rewards with Bandits,introduction,conclusion
+2020.emnlp-main.626,2020,MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge,introduction,conclusion
+2020.emnlp-main.627,2020,Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification,introduction,conclusion
+2020.emnlp-main.628,2020,Program Enhanced Fact Verification with Verbalization and Graph Attention Network,introduction,conclusion
+2020.emnlp-main.629,2020,Constrained Fact Verification for FEVER,introduction,conclusion
+2020.emnlp-main.630,2020,Entity Linking in 100 Languages,introduction,conclusion
+2020.emnlp-main.631,2020,"PatchBERT: Just-in-Time, Out-of-Vocabulary Patching",proxy:background,proxy:japanese twitter sentiment analysis|chinese news sentiment analysis|results|japanese twitter sentiment analysis|chinese news sentiment analysis
+2020.emnlp-main.632,2020,On the importance of pre-training data volume for compact language models,introduction,conclusion
+2020.emnlp-main.633,2020,BERT-of-Theseus: Compressing BERT by Progressive Module Replacing,introduction,proxy:experimental results|analysis|discussion
+2020.emnlp-main.634,2020,Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting,introduction,conclusion
+2020.emnlp-main.635,2020,Exploring and Predicting Transferability across NLP Tasks,introduction,conclusion
+2020.emnlp-main.636,2020,To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging,introduction,conclusion
+2020.emnlp-main.637,2020,Cold-start Active Learning through Self-supervised Language Modeling,introduction,conclusion
+2020.emnlp-main.638,2020,Active Learning for BERT: An Empirical Study,introduction,conclusion
+2020.emnlp-main.639,2020,Transformer Based Multi-Source Domain Adaptation,introduction,conclusion
+2020.emnlp-main.641,2020,The importance of fillers for text representations of speech transcripts,introduction,conclusion
+2020.emnlp-main.642,2020,The role of context in neural pitch accent detection in English,introduction,conclusion
+2020.emnlp-main.643,2020,VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls,introduction,conclusion
+2020.emnlp-main.644,2020,Effectively pretraining a speech translation decoder with Machine Translation data,introduction,conclusion
+2020.emnlp-main.645,2020,A Preliminary Exploration of GANs for Keyphrase Generation,introduction,conclusion
+2020.emnlp-main.646,2020,TESA: A Task in Entity Semantic Aggregation for Abstractive Summarization,introduction,conclusion
+2020.emnlp-main.647,2020,MLSUM: The Multilingual Summarization Corpus,introduction,conclusion
+2020.emnlp-main.648,2020,Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles,introduction,conclusion
+2020.emnlp-main.649,2020,Intrinsic Evaluation of Summarization Datasets,introduction,conclusion
+2020.emnlp-main.650,2020,Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness,introduction,conclusion
+2020.emnlp-main.651,2020,Conversational Semantic Parsing for Dialog State Tracking,introduction,conclusion
+2020.emnlp-main.652,2020,doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset,introduction,conclusion
+2020.emnlp-main.654,2020,INSPIRED: Toward Sociable Recommendation Dialog Systems,introduction,conclusion
+2020.emnlp-main.656,2020,Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation,introduction,conclusion
+2020.emnlp-main.657,2020,Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference,introduction,conclusion
+2020.emnlp-main.658,2020,New Protocols and Negative Results for Textual Entailment Data Collection,introduction,conclusion
+2020.emnlp-main.659,2020,"The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions",introduction,conclusion
+2020.emnlp-main.660,2020,Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start,introduction,proxy:results and analyses|summary
+2020.emnlp-main.661,2020,ConjNLI: Natural Language Inference Over Conjunctive Sentences,introduction,conclusion
+2020.emnlp-main.662,2020,Data and Representation for Turkish Natural Language Inference,introduction,conclusion
+2020.emnlp-main.663,2020,Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies,introduction,conclusion
+2020.emnlp-main.664,2020,Precise Task Formalization Matters in Winograd Schema Evaluations,introduction,conclusion
+2020.emnlp-main.665,2020,Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training,introduction,conclusion
+2020.emnlp-main.666,2020,SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery,introduction,conclusion
+2020.emnlp-main.667,2020,Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction,introduction,conclusion
+2020.emnlp-main.668,2020,Text Graph Transformer for Document Classification,introduction,conclusion
+2020.emnlp-main.669,2020,CoDEx: A Comprehensive Knowledge Graph Completion Benchmark,introduction,conclusion
+2020.emnlp-main.670,2020,META: Metadata-Empowered Weak Supervision for Text Classification,introduction,conclusion
+2020.emnlp-main.671,2020,Towards More Accurate Uncertainty Estimation In Text Classification,introduction,conclusion
+2020.emnlp-main.681,2020,Deconstructing word embedding algorithms,introduction,conclusion
+2020.emnlp-main.682,2020,Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection,introduction,conclusion
+2020.emnlp-main.683,2020,Sparsity Makes Sense: Word Sense Disambiguation Using Sparse Contextualized Word Representations,introduction,conclusion
+2020.emnlp-main.684,2020,Exploring Semantic Capacity of Terms,introduction,conclusion
+2020.emnlp-main.685,2020,Learning to Ignore: Long Document Coreference with Bounded Memory Neural Networks,introduction,conclusion
+2020.emnlp-main.686,2020,Revealing the Myth of Higher-Order Inference in Coreference Resolution,introduction,conclusion
+2020.emnlp-main.687,2020,Pre-training Mention Representations in Coreference Models,introduction,conclusion
+2020.emnlp-main.688,2020,Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning,introduction,conclusion
+2020.emnlp-main.689,2020,Exploring Contextualized Neural Language Models for Temporal Dependency Parsing,introduction,conclusion
+2020.emnlp-main.690,2020,Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction,introduction,conclusion
+2020.emnlp-main.691,2020,SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup,introduction,conclusion
+2020.emnlp-main.692,2020,AxCell: Automatic Extraction of Results from Machine Learning Papers,introduction,conclusion
+2020.emnlp-main.693,2020,Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning,introduction,conclusion
+2020.emnlp-main.694,2020,DualTKB: A Dual Learning Bridge between Text and Knowledge Base,introduction,conclusion
+2020.emnlp-main.695,2020,Incremental Neural Coreference Resolution in Constant Memory,introduction,conclusion
+2020.emnlp-main.696,2020,Improving Low Compute Language Modeling with In-Domain Embedding Initialisation,introduction,conclusion
+2020.emnlp-main.697,2020,KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation,introduction,conclusion
+2020.emnlp-main.698,2020,POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training,introduction,conclusion
+2020.emnlp-main.699,2020,Unsupervised Text Style Transfer with Padded Masked Language Models,introduction,conclusion
+2020.emnlp-main.700,2020,PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation,introduction,conclusion
+2020.emnlp-main.701,2020,Gradient-guided Unsupervised Lexically Constrained Text Generation,introduction,conclusion
+2020.emnlp-main.702,2020,TeaForN: Teacher-Forcing with N-grams,introduction,conclusion
+2020.emnlp-main.703,2020,Experience Grounds Language,proxy:first_section:empty,conclusion
+2020.emnlp-main.704,2020,Keep CALM and Explore: Language Models for Action Generation in Text-based Games,introduction,conclusion
+2020.emnlp-main.706,2020,What is More Likely to Happen Next? Video-and-Language Future Event Prediction,introduction,conclusion
+2020.emnlp-main.707,2020,"X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers",introduction,conclusion
+2020.emnlp-main.708,2020,Towards Understanding Sample Variance in Visually Grounded Language Generation: Evaluations and Observations,introduction,conclusion
+2020.emnlp-main.709,2020,Beyond Instructional Videos: Probing for More Diverse Visual-Textual Grounding on YouTube,introduction,conclusion
+2020.emnlp-main.710,2020,Hierarchical Graph Network for Multi-hop Question Answering,introduction,conclusion
+2020.emnlp-main.711,2020,A Simple Yet Strong Pipeline for HotpotQA,introduction,conclusion
+2020.emnlp-main.712,2020,Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning,introduction,conclusion
+2020.emnlp-main.713,2020,Unsupervised Question Decomposition for Question Answering,introduction,conclusion
+2020.emnlp-main.714,2020,SRLGRN: Semantic Role Labeling Graph Reasoning Network,introduction,conclusion
+2020.emnlp-main.716,2020,Exploring the Role of Argument Structure in Online Debate Persuasion,introduction,conclusion
+2020.emnlp-main.717,2020,Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations,introduction,conclusion
+2020.emnlp-main.718,2020,Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding,introduction,conclusion
+2020.emnlp-main.719,2020,Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning,introduction,conclusion
+2020.emnlp-main.721,2020,MIME: MIMicking Emotions for Empathetic Response Generation,introduction,conclusion
+2020.emnlp-main.722,2020,Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning,introduction,conclusion
+2020.emnlp-main.723,2020,Named Entity Recognition Only from Word Embeddings,introduction,conclusion
+2020.emnlp-main.724,2020,Text Classification Using Label Names Only: A Language Model Self-Training Approach,introduction,conclusion
+2020.emnlp-main.725,2020,Neural Topic Modeling with Cycle-Consistent Adversarial Training,introduction,conclusion
+2020.emnlp-main.731,2020,COGS: A Compositional Generalization Challenge Based on Semantic Interpretation,introduction,conclusion
+2020.emnlp-main.732,2020,An Analysis of Natural Language Inference Benchmarks through the Lens of Negation,introduction,conclusion
+2020.emnlp-main.733,2020,On the Sentence Embeddings from Pre-trained Language Models,introduction,conclusion
+2020.emnlp-main.734,2020,What Can We Learn from Collective Human Opinions on Natural Language Inference Data?,introduction,conclusion
+2020.emnlp-main.735,2020,Improving Text Generation with Student-Forcing Optimal Transport,introduction,conclusion
+2020.emnlp-main.736,2020,UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation,introduction,conclusion
+2020.emnlp-main.738,2020,Partially-Aligned Data-to-Text Generation with Distant Supervision,introduction,conclusion
+2020.emnlp-main.739,2020,Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions,introduction,conclusion
+2020.emnlp-main.740,2020,A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning,introduction,conclusion
+2020.emnlp-main.741,2020,The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection,introduction,conclusion
+2020.emnlp-main.742,2020,GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems,introduction,conclusion
+2020.emnlp-main.743,2020,MedDialog: Large-scale Medical Dialogue Datasets,introduction,conclusion
+2020.emnlp-main.744,2020,An information theoretic view on selecting linguistic probes,introduction,conclusion
+2020.emnlp-main.745,2020,With Little Power Comes Great Responsibility,introduction,conclusion
+2020.emnlp-main.746,2020,Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics,introduction,conclusion
+2020.emnlp-main.747,2020,Evaluating and Characterizing Human Rationales,introduction,proxy:overall results|concluding discussion
+2020.emnlp-main.748,2020,On Extractive and Abstractive Neural Document Summarization with Transformer Language Models,introduction,conclusion
+2020.emnlp-main.749,2020,Multi-Fact Correction in Abstractive Text Summarization,introduction,conclusion
+2020.emnlp-main.750,2020,Evaluating the Factual Consistency of Abstractive Text Summarization,introduction,conclusion
+2020.emnlp-main.751,2020,Re-evaluating Evaluation in Text Summarization,introduction,proxy:summary level|system-generated summary collection
+2020.emnlp-main.752,2020,VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles,introduction,conclusion

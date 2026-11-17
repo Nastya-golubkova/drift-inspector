@@ -1,0 +1,25 @@
+{
+  "eval_file": "artifacts/extension_full656/author_table2_eval_papers.csv",
+  "eval_n": 653,
+  "checks": [
+    {
+      "regime": "A_6517",
+      "fit_source": "data/claims_sources/emnlp_full/papers.csv",
+      "fit_n": 6517,
+      "eval_n": 653,
+      "intersection": 653,
+      "eval_subset_of_fit": true,
+      "assert_line": "assert eval_ids.issubset(fit_ids)  # Regime A"
+    },
+    {
+      "regime": "B_4488",
+      "fit_source": "artifacts/baseline/acc_clusters_emnlp.csv",
+      "fit_n": 4488,
+      "eval_n": 653,
+      "intersection": 653,
+      "eval_subset_of_fit": true,
+      "assert_line": "assert eval_ids.issubset(fit_ids)  # Regime B"
+    }
+  ],
+  "status": "PASS"
+}

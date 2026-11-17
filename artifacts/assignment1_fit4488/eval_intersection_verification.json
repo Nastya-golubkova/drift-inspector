@@ -1,0 +1,12 @@
+{
+  "source": "artifacts/baseline/acc_clusters_emnlp.csv",
+  "n_claims": 16576,
+  "fit_n": 4488,
+  "eval_n": 653,
+  "intersection_eval653": 653,
+  "duplicate_paper_ids": 0,
+  "sorted_ids_sha256": "38954726a6a3ed594f5fed41ee88f055ee1c6ff1ed48c54aea610e5c69f0bdc5",
+  "eval_file": "artifacts/extension_full656/author_table2_eval_papers.csv",
+  "all_eval_ids_in_fit4488": true,
+  "papers_csv": "data/claims_sources/emnlp_full/papers.csv"
+}

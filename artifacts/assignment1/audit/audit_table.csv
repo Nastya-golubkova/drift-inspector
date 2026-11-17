@@ -1,0 +1,13 @@
+experiment_id,regime,expected_fit_size,actual_fit_size,expected_eval_size,actual_eval_size,status,source_artifact,notes
+A_table2_published,A_6517,4488,4488.0,653,653.0,verified,artifacts/assignment1/results/final_comparison_table.csv,Published+Reproduced+Our; ACC fit was 4488
+A_stage_ab_windows,A_6517,6517,6517.0,653,653.0,verified,artifacts/assignment1/results/stage_ab_results.csv,R0/R2/R3 encoders
+A_stage_c_late,A_6517,6517,6517.0,653,653.0,verified,artifacts/assignment1/results/stage_c_results.csv,late MaxSim
+A_our_methods_all,A_6517,6517,6517.0,653,653.0,verified,artifacts/assignment1/results/our_methods_all.csv,
+A_title_fusion,A_6517,6517,6517.0,653,653.0,verified,artifacts/assignment1_title_fusion/results/title_fusion_results.csv,T0/A1/A2/A3; R0 copied
+B_fit4488,B_4488,4488,4488.0,653,653.0,verified,artifacts/assignment1_fit4488/results/fit4488_results.csv,fit4488_results.csv complete
+C_fair653,C_restricted,653,653.0,653,653.0,verified,artifacts/extension_653/fair653_all_methods.csv,
+C_fair656,C_restricted,656,656.0,656,656.0,verified,artifacts/extension_full656/fair656_all_methods.csv,NOT 653; abs+intro+concl PF=0.5208 here
+C_extension_612,C_restricted,612,612.0,612,612.0,verified,artifacts/extension/results.csv,
+C_intersection_612,C_restricted,612,612.0,612,612.0,verified,artifacts/intersection/baseline_on_intersection.csv,
+C_expanded_645,C_restricted,645,645.0,645,645.0,verified,artifacts/extension_expanded/results_expanded.csv,
+C_sliding_612,C_restricted,612,612.0,612,612.0,verified,artifacts/extension_sliding/results_full.csv,

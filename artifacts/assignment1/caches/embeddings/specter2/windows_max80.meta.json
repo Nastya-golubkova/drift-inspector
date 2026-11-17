@@ -1,0 +1,9 @@
+{
+  "model": "allenai/specter2_aug2023refresh_base",
+  "adapter": "allenai/specter2_aug2023refresh",
+  "pooling": "CLS",
+  "max_length": 512,
+  "normalize": false,
+  "n": 17354,
+  "dim": 768
+}

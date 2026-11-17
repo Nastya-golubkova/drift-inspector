@@ -1,0 +1,6 @@
+{
+  "source": "/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/artifacts/baseline/specter2_abstract_embeddings.npy",
+  "model": "allenai/specter2_aug2023refresh_base",
+  "n": 6517,
+  "note": "raw CLS (not L2); clustering uses cosine UMAP"
+}

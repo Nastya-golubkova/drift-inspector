@@ -1,0 +1,61 @@
+Eval papers=653 categories=21 avg_labels=1.00 -> nDCG@1
+reuse windows windows_max80.csv n=17354
+window stats: {"n_papers": 6517, "n_windows": 17354, "papers_1_window": 89, "papers_2_windows": 2455, "papers_3plus_windows": 3973, "pct_single_window": 0.013656590455731164, "tokens_mean": 59.1989166762706, "tokens_median": 64.0, "tokens_max": 199, "windows_per_paper_mean": 2.662881694030996}
+
+===== Late fusion specter2 =====
+  MaxSim directed rows 512/6517
+  MaxSim directed rows 1024/6517
+  MaxSim directed rows 1536/6517
+  MaxSim directed rows 2048/6517
+  MaxSim directed rows 2560/6517
+  MaxSim directed rows 3072/6517
+  MaxSim directed rows 3584/6517
+  MaxSim directed rows 4096/6517
+  MaxSim directed rows 4608/6517
+  MaxSim directed rows 5120/6517
+  MaxSim directed rows 5632/6517
+  MaxSim directed rows 6144/6517
+  MaxSim directed rows 6517/6517
+saved /workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/artifacts/assignment1/caches/similarity/specter2_maxsim.npy (6517, 6517)
+specter2|late_maxsim|hdbscan_precomputed K=4 PF=0.3077
+specter2|late_maxsim|agglo_k80 K=80 PF=0.2771
+
+===== Late fusion semcse =====
+  MaxSim directed rows 512/6517
+  MaxSim directed rows 1024/6517
+  MaxSim directed rows 1536/6517
+  MaxSim directed rows 2048/6517
+  MaxSim directed rows 2560/6517
+  MaxSim directed rows 3072/6517
+  MaxSim directed rows 3584/6517
+  MaxSim directed rows 4096/6517
+  MaxSim directed rows 4608/6517
+  MaxSim directed rows 5120/6517
+  MaxSim directed rows 5632/6517
+  MaxSim directed rows 6144/6517
+  MaxSim directed rows 6517/6517
+saved /workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/artifacts/assignment1/caches/similarity/semcse_maxsim.npy (6517, 6517)
+semcse|late_maxsim|hdbscan_precomputed K=0 PF=nan
+semcse|late_maxsim|agglo_k80 K=80 PF=0.1441
+wrote final_comparison_table.csv
+      role                                   method   K  Coverage   Purity  LRAP_mean  nDCG@1_mean  V_measure   PairF1
+Our method            specter2|R0_full|umap_hdbscan  53  0.771822 0.666282   0.695148     0.631610   0.630322 0.525435
+Our method    specter2|R2_uniform_mean|umap_hdbscan  44  0.675345 0.636996   0.690555     0.621479   0.621893 0.513749
+Our method  specter2|R3_token_weighted|umap_hdbscan  49  0.773354 0.651495   0.692055     0.630273   0.608480 0.510662
+Our method    semcse|R3_token_weighted|umap_hdbscan  47  0.633997 0.620959   0.628313     0.553444   0.561863 0.406281
+ Published                                ACC-top30  30  0.705972 0.618090   0.693485     0.595562   0.552200 0.403326
+Reproduced                   ACC-top30 [reproduced]  30  0.705972 0.618090   0.693485     0.595562   0.552200 0.403326
+Our method                qwen|R0_full|umap_hdbscan  66  0.784074 0.694394   0.673528     0.613594   0.593471 0.394858
+Our method      semcse|R2_uniform_mean|umap_hdbscan  42  0.589587 0.633229   0.644849     0.576962   0.563855 0.378804
+Our method        qwen|R2_uniform_mean|umap_hdbscan  63  0.739663 0.648709   0.617672     0.550188   0.566786 0.368298
+ Published                        SentSPECTER-top30  30  0.791730 0.472069   0.636743     0.511699   0.471112 0.365110
+Reproduced           SentSPECTER-top30 [reproduced]  30  0.791730 0.472069   0.636743     0.511699   0.471112 0.365110
+ Published                               ACC (ours)  80  0.839204 0.688819   0.674109     0.579546   0.570499 0.360695
+Reproduced                  ACC (ours) [reproduced]  80  0.839204 0.688819   0.674109     0.579546   0.570499 0.360695
+Our method      qwen|R3_token_weighted|umap_hdbscan  63  0.738132 0.644293   0.626518     0.554614   0.576673 0.345423
+Our method              semcse|R0_full|umap_hdbscan  46  0.589587 0.605912   0.592004     0.514883   0.545171 0.344530
+Our method specter2|late_maxsim|hdbscan_precomputed   4  0.116386 0.661692   0.521307     0.329587   0.322827 0.307741
+ Published                        BERTopic-SPECTER2  53  1.000000 0.318126   0.655092     0.520331   0.470981 0.289665
+Reproduced           BERTopic-SPECTER2 [reproduced]  53  1.000000 0.318126   0.655092     0.520331   0.470981 0.289665
+Our method           specter2|late_maxsim|agglo_k80  80  1.000000 0.704700   0.534831     0.407810   0.432081 0.277149
+ Published                              SentSPECTER 187  0.978560 0.654445   0.667903     0.540306   0.531925 0.267728

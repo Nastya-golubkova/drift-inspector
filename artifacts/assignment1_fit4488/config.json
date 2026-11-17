@@ -1,0 +1,35 @@
+{
+  "regime": "B_4488",
+  "fit_corpus": 4488,
+  "fit_id_source": "/workspace-SR004.nfs3/ayagolubkova/ayagolubkova02/repo/drift-inspector/artifacts/baseline/acc_clusters_emnlp.csv",
+  "eval": 653,
+  "alphas": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "encoders": [
+    "specter2",
+    "semcse",
+    "qwen"
+  ],
+  "umap": {
+    "n_neighbors": 40,
+    "n_components": 5,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "random_state": 42
+  },
+  "hdbscan": {
+    "min_cluster_size": 25,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom"
+  },
+  "concat_template": "Title: {title} Abstract: {abstract}",
+  "random_state": 42,
+  "a3": "UMAP metric=precomputed on D=1-S, then HDBSCAN",
+  "note": "embeddings sliced from 6517 caches where available; clustering refit on 4488"
+}
